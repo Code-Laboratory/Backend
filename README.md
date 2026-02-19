@@ -3,8 +3,10 @@
 > ✏️회사 프로젝트를 진행하며 겪었던 이슈에 대한 내용을 정리합니다.
 
 * [Java in K8s: OOM](https://github.com/dnwls16071/Backend_Summary/issues/116)
-* [R2DBC Connection Pool Initialization](https://github.com/dnwls16071/Backend_Summary/issues/115)
-* [Kotlin Coroutine]
+* [R2DBC Connection Pool Initialization: Trial and Error](https://github.com/dnwls16071/Backend_Summary/issues/115)
+* [Kotlin Coroutine: Trial and Error]
+* [Virtual Thread: Trial and Error]
+* [Asynchronous Processing of Java: Trial and Error]
 
 ## 📖 Spring Security🥇
 

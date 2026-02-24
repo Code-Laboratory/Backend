@@ -3,10 +3,11 @@
 > ✏️회사 프로젝트를 진행하며 겪었던 이슈에 대한 내용을 정리합니다.
 
 * [Java in K8s: OOM](https://github.com/dnwls16071/Backend_Summary/issues/116)
-* [R2DBC Connection Pool Initialization: Trial and Error](https://github.com/dnwls16071/Backend_Summary/issues/115)
-* [Kotlin Coroutine: Trial and Error]
-* [Virtual Thread: Trial and Error]
-* [Asynchronous Processing of Java: Trial and Error]
+* [R2DBC Connection Pool Initialization](https://github.com/dnwls16071/Backend_Summary/issues/115)
+* [Kotlin Coroutine]
+* [Kafka Streams]
+* [Asynchronous Processing of Java]
+* [Virtual Thread]
 
 ## 📖 Spring Security🥇
 
@@ -60,16 +61,25 @@
 * [Apache Kafka - Kafka Topic/Producer/Consumer](https://github.com/dnwls16071/Backend_Summary/wiki/Apache-Kafka-%E2%80%90-Kafka-Topic-Producer-Consumer)
 * [Apache Kafka - Java 기반 Producer 구현 및 Producer 내부 메커니즘 이해](https://github.com/dnwls16071/Backend_Summary/wiki/Apache-Kafka-%E2%80%90-Java-%EA%B8%B0%EB%B0%98-Producer-%EA%B5%AC%ED%98%84-%EB%B0%8F-Producer-%EB%82%B4%EB%B6%80-%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98-%EC%9D%B4%ED%95%B4)
 * [Apache Kafka - Java 기반 Consumer 구현 및 Consumer 내부 메커니즘 이해](https://github.com/dnwls16071/Backend_Summary/wiki/Apache-Kafka-%E2%80%90-Java-%EA%B8%B0%EB%B0%98-Consumer-%EA%B5%AC%ED%98%84-%EB%B0%8F-Consumer-%EB%82%B4%EB%B6%80-%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98-%EC%9D%B4%ED%95%B4)
-* [Apache Kafka - 멀티 노드 카프카 클러스터]
-* [Apache Kafka - Producer/Consumer의 Custom 객체 직렬화/역직렬화]
-* [Apache Kafka - Topic의 Segment 관리]
-* [Apache Kafka - Schema Registry란?]
+* [Apache Kafka - 멀티 노드 카프카 클러스터](https://github.com/dnwls16071/Backend_Summary/wiki/Apache-Kafka-%E2%80%90-%EB%A9%80%ED%8B%B0-%EB%85%B8%EB%93%9C-%EC%B9%B4%ED%94%84%EC%B9%B4-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0)
+* [Apache Kafka - Producer/Consumer의 Custom 객체 직렬화/역직렬화](https://github.com/dnwls16071/Backend_Summary/wiki/Apache-Kafka-%E2%80%90-Producer-Consumer%EC%9D%98-Custom-%EA%B0%9D%EC%B2%B4-%EC%A7%81%EB%A0%AC%ED%99%94-%EC%97%AD%EC%A7%81%EB%A0%AC%ED%99%94)
+* [Apache Kafka - Topic의 Segment 관리](https://github.com/dnwls16071/Backend_Summary/wiki/Apache-Kafka-%E2%80%90-Topic%EC%9D%98-Segment-%EA%B4%80%EB%A6%AC)
 * [Apache Kafka - KSQLDB]
-* [Apache Kafka - 고가용성을 위한 Kafka 메시지 처리 실패 시 대처 방법]
-* [Apache Kafka - 고가용성을 위한 Kafka 메시지 처리 성능 높이는 방법]
-* [Apache Kafka - Kafka Streams]
+* [Apache Kafka - KSQLDB Stream]
+* [Apache Kafka - KSQLDB Table]
+* [Apache Kafka - KSQLDB 활용]
+* [Apache Kafka - Group by와 Mview]
+* [Apache Kafka - 조인(Join)]
+* [Apache Kafka - Time과 Windows]
+* [Apache Kafka - KSQLDB Stream]
 * [Apache Kafka - Kafka Connect]
-* [Apache Kafka - CDC]
+* [Apache Kafka - JDBC Source Connector]
+* [Apache Kafka - JDBC Sink Connector]
+* [Apache Kafka - Debezium MySQL CDC Source Connector]
+* [Apache Kafka - Schema Registry]
+* [Apache Kafka - 멱등성 프로듀서, 트랜잭션 프로듀서와 컨슈머]
+* [Apache Kafka - 카프카 스트림즈]
+* [Apache Kafka - 카프카 커넥트]
 
 ## 📖 Confluent Cloud🥇
 
@@ -95,6 +105,12 @@
 * [Spring Batch - 스프링 배치 청크 프로세스 - ItemProcessor](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Batch-%E2%80%90-ItemProcessor)
 * [Spring Batch - 스프링 배치 반복 및 오류 제어](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Batch-%E2%80%90-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B0%B0%EC%B9%98-%EB%B0%98%EB%B3%B5-%EB%B0%8F-%EC%98%A4%EB%A5%98-%EC%A0%9C%EC%96%B4-%EC%B2%98%EB%A6%AC)
 * [Spring Batch - 스프링 배치 멀티 쓰레드 프로세싱](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Batch-%E2%80%90-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B0%B0%EC%B9%98-%EB%A9%80%ED%8B%B0-%EC%93%B0%EB%A0%88%EB%93%9C-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8B%B1)
+* [Spring Batch - 스프링 배치 이벤트 리스너]
+* [Spring Batch - 스프링 배치 테스트]
+* [Spring Batch - FlatFileItemReader](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Batch-%E2%80%90-FlatFileItemReader)
+* [Spring Batch - FlatFileItemWriter](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Batch-%E2%80%90-FlatFileItemWriter)
+* [Spring Batch - JSON 파일 읽고 쓰기](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Batch-%E2%80%90-JSON-%ED%8C%8C%EC%9D%BC-%EC%9D%BD%EA%B3%A0-%EC%93%B0%EA%B8%B0)
+* [Spring Batch ‐ DB 읽고 쓰기](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Batch-%E2%80%90-DB-%EC%9D%BD%EA%B3%A0-%EC%93%B0%EA%B8%B0)
 
 ## 📖 Spring🥇
 
@@ -140,6 +156,18 @@
 * [Spring - ArgumentResolver과 Annotation](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-%E2%80%90-ArgumentResolver%EA%B3%BC-Annotation%EC%9C%BC%EB%A1%9C-%EC%BD%94%EB%93%9C-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81%ED%95%98%EA%B8%B0)
 * [Spring ‐ URL 인코딩](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-%E2%80%90-URL-%EC%9D%B8%EC%BD%94%EB%94%A9)
 * [Spring - 캐시(Cache) 추상화](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-%E2%80%90-Cache-%EC%B6%94%EC%83%81%ED%99%94)
+* [Spring - Retry](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-%E2%80%90-Retry)
+
+## 📖 Spring Boot🥇
+
+> ✏️애플리케이션 개발의 기반 프레임워크인 Spring 설정을 자동화하여 생산성을 높인 Spring Boot에 대한 내용을 정리합니다.
+
+* [Spring Boot - SSE로 알림 기능 구현하기](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-SSE%EB%A1%9C-%EC%95%8C%EB%A6%BC-%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
+* [Spring Boot ‐ 스프링 부트 개념](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-Boot-%E2%80%90-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%EA%B0%9C%EB%85%90)
+* [Spring Boot ‐ 외부 설정과 프로필](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-Boot-%E2%80%90-%EC%99%B8%EB%B6%80-%EC%84%A4%EC%A0%95%EA%B3%BC-%ED%94%84%EB%A1%9C%ED%95%84)
+* [Spring Boot ‐ 액츄에이터(Actuator)](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-Boot-%E2%80%90-%EC%95%A1%EC%B8%84%EC%97%90%EC%9D%B4%ED%84%B0(Actuator))
+* [Spring Boot ‐ 마이크로미터, 프로메테우스, 그라파나](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-Boot-%E2%80%90-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EB%AF%B8%ED%84%B0,-%ED%94%84%EB%A1%9C%EB%A9%94%ED%85%8C%EC%9A%B0%EC%8A%A4,-%EA%B7%B8%EB%9D%BC%ED%8C%8C%EB%82%98)
+* [Spring Boot - 모니터링 메트릭](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Boot-%E2%80%90-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-%EB%A9%94%ED%8A%B8%EB%A6%AD-%ED%99%9C%EC%9A%A9)
 
 ## 📖 Java🥇
 
@@ -198,6 +226,7 @@
 * [Java ‐ 모던 자바: Java 8+](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EB%AA%A8%EB%8D%98-%EC%9E%90%EB%B0%94:-Java-8)
 * [Java ‐ Java 애플리케이션 성능 튜닝](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-Java-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%84%B1%EB%8A%A5-%ED%8A%9C%EB%8B%9D)
 * [Java - CAS](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-CAS)
+* [Java - StringBuilder & String.format() & String 성능 차이]
 * [Java - Virtual Thread](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-Virtual-Thread)
 
 ## 📖 Effective Java🥈
@@ -289,6 +318,8 @@
 * [최소한 알고 있어야 할 서버 지식](https://github.com/dnwls16071/Backend_Summary/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-%EC%B5%9C%EC%86%8C%ED%95%9C-%EC%95%8C%EA%B3%A0-%EC%9E%88%EC%96%B4%EC%95%BC-%ED%95%A0-%EC%84%9C%EB%B2%84-%EC%A7%80%EC%8B%9D)
 * [모르면 답답해지는 네트워크 기초]
 * [자주 쓰는 서버 구조와 설계 패턴]
+
+## 📖 아파치 카프카 애플리케이션 프로그래밍 with 자바🥈
 
 ## 📖 Effective Kotlin[핵심편]🥈
 
@@ -440,6 +471,7 @@
 > ✏️CI/CD에 대한 내용을 정리합니다.
 
 * [Github Actions - Github Actions 기본 개념 정리](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Github-Actions-%E2%80%90-Github-Actions-%EA%B8%B0%EB%B3%B8-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC)
+* [Jenkins - SpringBoot & Docker & Jenkins로 CI/CD Pipeline 구축]
 
 ## 📖 Redis🥈
 

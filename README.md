@@ -383,7 +383,7 @@
 * [⚠️MySQL - Exploring Inside MySQL](https://github.com/woojin-playground/Backend-PlayGround/wiki/MySQL-%E2%80%90-Exploring-Inside-MySQL)
 * [MySQL - MySQL Horizontal Scaling](https://github.com/woojin-playground/Backend-PlayGround/wiki/MySQL-%E2%80%90-MySQL-Horizontal-Scaling)
 * [MySQL - MySQL Fundamentals](https://github.com/woojin-playground/Backend-PlayGround/wiki/MySQL-%E2%80%90-MySQL-Fundamentals)
-* [MySQL - Why You Should Use MySQL: JOIN]
+* [MySQL - Why You Should Use MySQL: JOIN](https://github.com/woojin-playground/Backend-PlayGround/wiki/MySQL-%E2%80%90-Why-You-Should-Use-MySQL:-JOIN)
 * [MySQL - Must-Know SQL Anti-Patterns]
 * [MySQL - Learning Data Modeling Through Practical Examples]
 * [MySQL - Foreign Key & Strategic Patterns]
@@ -548,8 +548,7 @@
 
 > ✏️ 웹 아키텍처의 근간인 HTTP 프로토콜의 작동 원리, 헤더 구조, 상태 코드, 그리고 RESTful API 설계를 위한 웹 캐시 메커니즘을 상세히 다룹니다.
 
-* [HTTP - Internet Network](https://github.com/dnwls16071/Backend_Study_TIL/wiki/HTTP-%E2%80%90-%EC%9D%B8%ED%84%B0%EB%84%B7-
-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)
+* [HTTP - Internet Network](https://github.com/woojin-playground/Backend-PlayGround/wiki/HTTP-%E2%80%90-%EC%9D%B8%ED%84%B0%EB%84%B7-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)
 * [HTTP - URI & Browser Request Flow](https://github.com/dnwls16071/Backend_Study_TIL/wiki/HTTP-%E2%80%90-URI%EC%99%80-%EC%9B%B9-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EC%9A%94%EC%B2%AD-%ED%9D%90%EB%A6%84)
 * [HTTP - HTTP Basic](https://github.com/dnwls16071/Backend_Study_TIL/wiki/HTTP-%E2%80%90-HTTP-%EA%B8%B0%EB%B3%B8)
 * [HTTP - HTTP Method](https://github.com/dnwls16071/Backend_Study_TIL/wiki/HTTP-%E2%80%90-HTTP-%EB%A9%94%EC%84%9C%EB%93%9C)

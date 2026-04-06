@@ -1,146 +1,8 @@
-## 📖 Kafka🥇
+## Programming Languages (프로그래밍 언어)
 
-> ✏️대용량 데이터 스트림 처리를 위한 분산 메시지 브로커인 Apache Kafka에 대한 내용을 정리합니다.
+### 📖 Java🥇
 
-* [Apache Kafka - Kafka Topic/Producer/Consumer](https://github.com/dnwls16071/Backend_Summary/wiki/Apache-Kafka-%E2%80%90-Kafka-Topic-Producer-Consumer)
-* [Apache Kafka - Producer Mechanism](https://github.com/dnwls16071/Backend_Summary/wiki/Apache-Kafka-%E2%80%90-Java-%EA%B8%B0%EB%B0%98-Producer-%EA%B5%AC%ED%98%84-%EB%B0%8F-Producer-%EB%82%B4%EB%B6%80-%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98-%EC%9D%B4%ED%95%B4)
-* [Apache Kafka - Consumer Mechanism](https://github.com/dnwls16071/Backend_Summary/wiki/Apache-Kafka-%E2%80%90-Java-%EA%B8%B0%EB%B0%98-Consumer-%EA%B5%AC%ED%98%84-%EB%B0%8F-Consumer-%EB%82%B4%EB%B6%80-%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98-%EC%9D%B4%ED%95%B4)
-* [Apache Kafka - Multi Node Kafka Cluster](https://github.com/dnwls16071/Backend_Summary/wiki/Apache-Kafka-%E2%80%90-%EB%A9%80%ED%8B%B0-%EB%85%B8%EB%93%9C-%EC%B9%B4%ED%94%84%EC%B9%B4-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0)
-* [Apache Kafka - Producer & Consumer Serialization/DeSerialization](https://github.com/dnwls16071/Backend_Summary/wiki/Apache-Kafka-%E2%80%90-Producer-Consumer%EC%9D%98-Custom-%EA%B0%9D%EC%B2%B4-%EC%A7%81%EB%A0%AC%ED%99%94-%EC%97%AD%EC%A7%81%EB%A0%AC%ED%99%94)
-* [Apache Kafka - Topic Segment Management](https://github.com/dnwls16071/Backend_Summary/wiki/Apache-Kafka-%E2%80%90-Topic%EC%9D%98-Segment-%EA%B4%80%EB%A6%AC)
-* [Apache Kafka - KSQLDB Stream](https://github.com/dnwls16071/Backend_Summary/wiki/Apache-Kafka-%E2%80%90-KSQLDB-Stream)
-* [Apache Kafka - KSQLDB Table](https://github.com/dnwls16071/Backend_Summary/wiki/Apache-Kafka-%E2%80%90-KSQLDB-Table)
-* [Apache Kafka - KSQLDB Application](https://github.com/dnwls16071/Backend_Summary/wiki/Apache-Kafka-%E2%80%90-KSQLDB-%ED%99%9C%EC%9A%A9)
-* [Apache Kafka - Group by & Mview](https://github.com/dnwls16071/Backend_Summary/wiki/Apache-Kafka-%E2%80%90-Group-by%EC%99%80-Mview)
-* [Apache Kafka - Join]
-* [Apache Kafka - Time & Windows]
-* [Apache Kafka - Connecting KSQLDB to Kafka Connect]
-* [Apache Kafka - Kafka Connect]
-* [Apache Kafka - JDBC Source Connector]
-* [Apache Kafka - JDBC Sink Connector]
-* [Apache Kafka - Debezium MySQL CDC Source Connector]
-* [Apache Kafka - Schema Registry]
-* [Apache Kafka - Differences Between RocksDB and In-Memory KeyValueStore in GlobalKTable](https://github.com/dnwls16071/Backend/wiki/Apache-Kafka-%E2%80%90-RocksDB-vs-InMemoryKeyValueStore)
-* [Apache Kafka - Kafka Streams](https://github.com/dnwls16071/Backend_Summary/wiki/Apache-Kafka-%E2%80%90-%EC%B9%B4%ED%94%84%EC%B9%B4-%EC%8A%A4%ED%8A%B8%EB%A6%BC%EC%A6%88)
-* [Apache Kafka - Kafka Connect]
-* [Apache Kafka - Idempotent Producers and Transactional Producers & Consumers]
-* [Apache Kafka - CDC(Change Data Capture)]
-
-## 📖 Spring Security🥇
-
-> ✏️인증/인가 담당 프레임워크인 Spring Security에 대한 내용을 정리합니다.
-
-* [Spring Security - Initialization](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-%EC%B4%88%EA%B8%B0%ED%99%94-%EC%84%A4%EC%A0%95)
-* [Spring Security - Authentication Process](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-%EC%9D%B8%EC%A6%9D-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EC%9D%B4%ED%95%B4)
-* [Spring Security - Authentication Architecture](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-%EC%9D%B8%EC%A6%9D-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%9D%B4%ED%95%B4)
-* [Spring Security - Authentication Status Persistence Processing Mechanism](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-%EC%9D%B8%EC%A6%9D-%EC%83%81%ED%83%9C-%EC%98%81%EC%86%8D%EC%84%B1-%EC%B2%98%EB%A6%AC-%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98)
-* [Spring Security - Session Management](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-%EC%84%B8%EC%85%98-%EA%B4%80%EB%A6%AC-%EB%B0%A9%EB%B2%95)
-* [Spring Security - Exception Handling](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-%EC%98%88%EC%99%B8-%EC%B2%98%EB%A6%AC-%ED%95%B8%EB%93%A4%EB%A7%81-%EB%B0%A9%EB%B2%95)
-* [Spring Security - Mechanisms for responding to Malicious Attacks](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-%EC%95%85%EC%9D%98%EC%A0%81%EC%9D%B8-%EA%B3%B5%EA%B2%A9%EC%97%90-%EB%8C%80%ED%95%9C-%EB%8C%80%EC%B2%98-%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98)
-* [Spring Security - Authorization Process](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-%EC%9D%B8%EA%B0%80-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4)
-* [Spring Security - Authorization Architecture](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-%EC%9D%B8%EA%B0%80-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
-* [Spring Security - Multiple Security Settings](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-%EB%8B%A4%EC%A4%91-%EB%B3%B4%EC%95%88-%EC%84%A4%EC%A0%95)
-* [Spring Security - Redis Redundancy Settings](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-Redis%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%9D%B4%EC%A4%91%ED%99%94-%EC%84%A4%EC%A0%95)
-* [Spring Security - Event](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%B2%98%EB%A6%AC)
-* [Spring Security - Integration](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-Integration)
-* [Spring Security - OAuth 2.0](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-Spring-Security-OAuth-2.0)
-* [Spring Security - OAuth 2.0 Authorization Type](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-OAuth-2.0-%EA%B6%8C%ED%95%9C%EB%B6%80%EC%97%AC-%EC%9C%A0%ED%98%95)
-* [Spring Security - Open ID Connect](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-Open-ID-Connect)
-* [Spring Security - OAuth 2.0 Client](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-OAuth-2.0-Client)
-* [Spring Security - OAuth 2.0 Client Fundamentals](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-OAuth-2.0-Client-Fundamentals)
-* [Spring Security - OAuth 2.0 oauth2Login](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-OAuth-2.0-oauth2Login)
-* [Spring Security - OAuth 2.0 oauth2Client](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-OAuth-2.0-oauth2Client)
-* [Spring Security - OAuth 2.0 Resource Server](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-OAuth-2.0-Resource-Server)
-* [Spring Security - OAuth 2.0 Resource Server API](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-OAuth-2.0-Resource-Server-API)
-* [Spring Security - OAuth 2.0 Verification](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-OAuth-2.0-%EA%B2%80%EC%A6%9D)
-* [Spring Security - OAuth 2.0 MAC & RSA Token Verification](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-OAuth-2.0-MAC-&-RSA-%ED%86%A0%ED%81%B0-%EA%B2%80%EC%A6%9D)
-* [Spring Security - OAuth 2.0 Resource Server Permission Implementation](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-OAuth-2.0-Resource-Server-%EA%B6%8C%ED%95%9C-%EA%B5%AC%ED%98%84)
-* [Spring Security - OAuth 2.0 opaque()](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-OAuth-2.0-opaque())
-* [Spring Security - Authorization Server](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-Authorization-Server)
-* [Spring Security - Authorization Server Main Domain Class](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-Authorization-Server-%EC%A3%BC%EC%9A%94-%EB%8F%84%EB%A9%94%EC%9D%B8-%ED%81%B4%EB%9E%98%EC%8A%A4)
-* [Spring Security - Authorization Server Endpoint Protocol](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-Authorization-Server-%EC%97%94%EB%93%9C%ED%8F%AC%EC%9D%B8%ED%8A%B8-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C)
-
-## 📖 AWS🥇
-
-> ✏️AWS에 대한 내용을 정리합니다.
-
-* [AWS - AWS CDK(Cloud Development Kit)](https://github.com/dnwls16071/Backend_Study_TIL/wiki/AWS-%E2%80%90-AWS-CDK(Cloud-Development-Kit))
-* [AWS - Signed URL](https://github.com/dnwls16071/Backend_Study_TIL/wiki/AWS-%E2%80%90-Signed-URL)
-* [AWS - PreSigned URL](https://github.com/dnwls16071/Backend_Study_TIL/wiki/AWS-%E2%80%90-PreSigned-URL)
-* [AWS - Cognito](https://github.com/dnwls16071/Backend_Summary/wiki/AWS-%E2%80%90-Cognito)
-* [AWS - Signed URL Logic](https://github.com/dnwls16071/Backend_Summary/wiki/AWS-%E2%80%90-Signed-URL-%EC%84%9C%EB%AA%85-%EB%A1%9C%EC%A7%81-%EC%A0%95%EB%A6%AC)
-
-## 📖 Spring Batch🥈
-
-> ✏️대량 데이터의 일괄 처리와 스케줄링을 지원하는 배치 프레임워크인 Spring Batch에 대한 내용을 정리합니다.
-
-* [Spring Batch - Introduction](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Batch-%E2%80%90-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B0%B0%EC%B9%98-%EC%86%8C%EA%B0%9C)
-* [Spring Batch - Batch Concept](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Batch-%E2%80%90-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B0%B0%EC%B9%98-%EC%8B%9C%EC%9E%91)
-* [Spring Batch - Batch Domain](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Batch-%E2%80%90-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B0%B0%EC%B9%98-%EB%8F%84%EB%A9%94%EC%9D%B8)
-* [Spring Batch - Job](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Batch-%E2%80%90-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B0%B0%EC%B9%98-%EC%8B%A4%ED%96%89(Job))
-* [Spring Batch - Step](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Batch-%E2%80%90-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B0%B0%EC%B9%98-%EC%8B%A4%ED%96%89(Step))
-* [Spring Batch - Flow](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Batch-%E2%80%90-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B0%B0%EC%B9%98-%EC%8B%A4%ED%96%89-%E2%80%90-Flow)
-* [Spring Batch - Chunk Process](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Batch-%E2%80%90-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B0%B0%EC%B9%98-%EC%B2%AD%ED%81%AC-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EC%9D%B4%ED%95%B4)
-* [Spring Batch - ItemReader](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Batch-%E2%80%90-ItemReader)
-* [Spring Batch - ItemWriter](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Batch-%E2%80%90-ItemWriter)
-* [Spring Batch - ItemProcessor](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Batch-%E2%80%90-ItemProcessor)
-* [Spring Batch - Retry & Error Handling](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Batch-%E2%80%90-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B0%B0%EC%B9%98-%EB%B0%98%EB%B3%B5-%EB%B0%8F-%EC%98%A4%EB%A5%98-%EC%A0%9C%EC%96%B4-%EC%B2%98%EB%A6%AC)
-* [Spring Batch - Multi Threads Processing](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Batch-%E2%80%90-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B0%B0%EC%B9%98-%EB%A9%80%ED%8B%B0-%EC%93%B0%EB%A0%88%EB%93%9C-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8B%B1)
-* [Spring Batch - Batch Event Listener]
-* [Spring Batch - Batch Test]
-* [Spring Batch - File Processing]
-* [Spring Batch - Read and Write Operations in Relational Databases and NoSQL]
-* [Spring Batch - FaultTolerant & ItemStream]
-* [Spring Batch - Partitioning]
-
-## 📖 Spring🥇
-
-> ✏️애플리케이션 개발의 기반 프레임워크인 Spring에 대한 내용을 정리합니다.
-
-* [Spring - OOP & Spring](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%EC%84%A4%EA%B3%84%EC%99%80-%EC%8A%A4%ED%94%84%EB%A7%81)
-* [Spring - Spring Container & Spring Bean](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EC%99%80-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B9%88)
-* [Spring - Singleton Container](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EC%8B%B1%EA%B8%80%ED%86%A4-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88)
-* [Spring - Dependency Injection](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EC%9D%98%EC%A1%B4%EA%B4%80%EA%B3%84-%EC%9E%90%EB%8F%99-%EC%A3%BC%EC%9E%85)
-* [Spring - Bean LifeCycle Callback](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EB%B9%88-%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0-%EC%BD%9C%EB%B0%B1)
-* [Spring - Bean Scope](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EB%B9%88-%EC%8A%A4%EC%BD%94%ED%94%84)
-* [Spring ‐ Web Server, Web Application server](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EC%9B%B9-%EC%84%9C%EB%B2%84,-%EC%9B%B9-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%84%9C%EB%B2%84)
-* [Spring ‐ Servlet](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EC%84%9C%EB%B8%94%EB%A6%BF)
-* [Spring ‐ Servlet & JSP & MVC](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EC%84%9C%EB%B8%94%EB%A6%BF,-JSP,-MVC-%ED%8C%A8%ED%84%B4)
-* [Spring ‐ MVC Framework](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-MVC-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC)
-* [Spring ‐ Spring MVC](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EC%8A%A4%ED%94%84%EB%A7%81-MVC-%EA%B5%AC%EC%A1%B0-%EC%9D%B4%ED%95%B4)
-* [Spring - Thymeleaf](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-Thymeleaf)
-* [Spring - Message & Internationalization](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EB%A9%94%EC%8B%9C%EC%A7%80,-%EA%B5%AD%EC%A0%9C%ED%99%94)
-* [Spring - Validation](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-Validation)
-* [Spring - Bean Validation](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-Bean-Validation)
-* [Spring - Cookie & Session](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EC%BF%A0%ED%82%A4%EC%99%80-%EC%84%B8%EC%85%98)
-* [Spring - Filter & Interceptor](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%ED%95%84%ED%84%B0%EC%99%80-%EC%9D%B8%ED%84%B0%EC%85%89%ED%84%B0)
-* [Spring - API Exception Handling](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EC%98%88%EC%99%B8-%EC%B2%98%EB%A6%AC)
-* [Spring - Spring Type Converter](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EC%8A%A4%ED%94%84%EB%A7%81-%ED%83%80%EC%9E%85-%EC%BB%A8%EB%B2%84%ED%84%B0)
-* [Spring - File Upload](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%ED%8C%8C%EC%9D%BC-%EC%97%85%EB%A1%9C%EB%93%9C)
-* [Spring - Connection Pool & DataSource](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EC%BB%A4%EB%84%A5%EC%85%98%ED%92%80%EA%B3%BC-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%86%8C%EC%8A%A4)
-* [Spring - Transaction](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98)
-* [Spring ‐ Spring Exception Abstraction](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%98%88%EC%99%B8-%EC%B6%94%EC%83%81%ED%99%94)
-* [Spring - Database Access](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-Database-Access)
-* [Spring ‐ Spring Transaction](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EC%8A%A4%ED%94%84%EB%A7%81-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EC%9D%B4%ED%95%B4)
-* [Spring ‐ Spring Transaction Propagation](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EC%8A%A4%ED%94%84%EB%A7%81-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EC%A0%84%ED%8C%8C)
-* [Spring ‐ Thread Local](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-Thread-Local(%EC%93%B0%EB%A0%88%EB%93%9C-%EB%A1%9C%EC%BB%AC))
-* [Spring ‐ Template Method Pattern & Callback Pattern](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%ED%85%9C%ED%94%8C%EB%A6%BF-%EB%A9%94%EC%84%9C%EB%93%9C-%ED%8C%A8%ED%84%B4%EA%B3%BC-%EC%BD%9C%EB%B0%B1-%ED%8C%A8%ED%84%B4)
-* [Spring ‐ Dynamic Proxy](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring--%E2%80%90-%EB%8F%99%EC%A0%81-%ED%94%84%EB%A1%9D%EC%8B%9C-%EA%B8%B0%EC%88%A0)
-* [Spring ‐ Spring Proxy](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EC%8A%A4%ED%94%84%EB%A7%81%EC%9D%B4-%EC%A7%80%EC%9B%90%ED%95%98%EB%8A%94-%ED%94%84%EB%A1%9D%EC%8B%9C)
-* [Spring ‐ Bean Processor](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EB%B9%88-%ED%9B%84%EC%B2%98%EB%A6%AC%EA%B8%B0)
-* [Spring ‐ @Aspect AOP](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-@Aspect-AOP)
-* [Spring ‐ Spring AOP](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EC%8A%A4%ED%94%84%EB%A7%81-AOP)
-* [Spring ‐ Spring AOP Application](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EC%8A%A4%ED%94%84%EB%A7%81-AOP-%EA%B5%AC%ED%98%84)
-* [Spring - Async Programming](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-Reactive-Programming)
-* [Spring - MyBatis](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-Mybatis)
-* [Spring - ArgumentResolver & Annotation](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-%E2%80%90-ArgumentResolver%EA%B3%BC-Annotation%EC%9C%BC%EB%A1%9C-%EC%BD%94%EB%93%9C-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81%ED%95%98%EA%B8%B0)
-* [Spring ‐ URL Encoding](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-%E2%80%90-URL-%EC%9D%B8%EC%BD%94%EB%94%A9)
-* [Spring - Cache Annotation](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-%E2%80%90-Cache-%EC%B6%94%EC%83%81%ED%99%94)
-* [Spring - Retry](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-%E2%80%90-Retry)
-
-## 📖 Java🥇
-
-> ✏️객체 지향 프로그래밍 언어이자 다양한 플랫폼에서 동작 가능한 범용 언어인 Java에 대한 내용을 정리합니다.
+> ✏️ 굳건한 백엔드 생태계의 핵심 언어인 Java의 기본 문법부터 메모리 구조(GC), 동시성 제어, 함수형 프로그래밍(Stream/Lambda) 등 깊이 있는 동작 원리와 모던 피처를 탐구합니다.
 
 * [Java - Class](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Java-%E2%80%90-Class)
 * [Java - Java Memory](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Java-%E2%80%90-%EC%9E%90%EB%B0%94-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B5%AC%EC%A1%B0)
@@ -196,278 +58,11 @@
 * [Java ‐ Java Application Performance Tuning](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-Java-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%84%B1%EB%8A%A5-%ED%8A%9C%EB%8B%9D)
 * [Java - CAS](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-CAS)
 * [Java - Virtual Thread](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-Virtual-Thread)
+* [Java - JVM Internal Structure and Memory Areas]
 
-## 📖 Kotlin🥇
+### 📖 Effective Java 3/E🥈
 
-> ✏️ 각광받는 Kotlin 언어에 대한 기본기를 정리합니다.
-
-* [Kotlin - Variables, Types, and Operators in Kotlin](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-Kotlin%EC%97%90%EC%84%9C-%EB%B3%80%EC%88%98%EC%99%80-%ED%83%80%EC%9E%85,-%EC%97%B0%EC%82%B0%EC%9E%90%EB%A5%BC-%EB%8B%A4%EB%A3%A8%EB%8A%94-%EB%B0%A9%EB%B2%95)
-* [Kotlin - Control Flow in Kotlin](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-Kotlin%EC%97%90%EC%84%9C-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%A0%9C%EC%96%B4%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
-* [Kotlin - Object-Oriented Programming in Kotlin](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-Kotlin%EC%97%90%EC%84%9C%EC%9D%98-OOP)
-* [Kotlin - Functional Programming in Kotlin](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-Kotlin%EC%97%90%EC%84%9C%EC%9D%98-FP)
-* [Kotlin - Key Features of Kotlin](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-Kotlin-%ED%8A%B9%EC%A7%95)
-* [Kotlin - Generics in Kotlin](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-Generic)
-* [Kotlin - Lazy Initialization and Delegation in Kotlin](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-%EC%A7%80%EC%97%B0%EA%B3%BC-%EC%9C%84%EC%9E%84)
-* [Kotlin - Advanced Functional Programming in Kotlin](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-%EB%B3%B5%EC%9E%A1%ED%95%9C-%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
-* [Kotlin - Operator Overloading and Kotlin DSL](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-%EC%97%B0%EC%82%B0%EC%9E%90-%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9%EA%B3%BC-Kotlin-DSL)
-* [Kotlin - Annotations and Reflection in Kotlin](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98%EA%B3%BC-%EB%A6%AC%ED%94%8C%EB%A0%89%EC%85%98)
-* [Kotlin - Miscellaneous Topics in Kotlin](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-%EA%B8%B0%ED%83%80)
-
-## 📖 Coroutine🥈
-
-* [Kotlin - Coroutines Introduction](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-Coroutines-%EA%B8%B0%EC%B4%88)
-* [Kotlin - Coroutines Component & Process Mechanism](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-Coroutines-%EA%B5%AC%EC%84%B1-%EC%9A%94%EC%86%8C%EC%99%80-%EB%8F%99%EC%9E%91-%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98)
-* [Kotlin ‐ Dispatchers](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-Dispatchers)
-
-## 📖 JPA(Java Persistence API)🥈
-
-> ✏️객체와 데이터베이스 간 매핑을 지원하는 ORM 표준 기술인 JPA(Java Persistence API)에 대한 내용을 정리합니다.
-
-* [JPA - Java Persistence API](https://github.com/dnwls16071/Backend_Study_TIL/wiki/JPA-%E2%80%90-JPA(Java-Persistence-API))
-* [JPA - Entity Mapping & PK Strategy](https://github.com/dnwls16071/Backend_Study_TIL/wiki/JPA-%E2%80%90-%EC%97%94%ED%8B%B0%ED%8B%B0-%EB%A7%A4%ED%95%91-%EB%B0%8F-%EA%B8%B0%EB%B3%B8%ED%82%A4-%EC%83%9D%EC%84%B1-%EC%A0%84%EB%9E%B5-%EC%A0%95%EB%A6%AC)
-* [JPA ‐ JPA Association Mapping](https://github.com/dnwls16071/Backend_Study_TIL/wiki/JPA-%E2%80%90-JPA-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84-%EB%A7%A4%ED%95%91)
-* [JPA - Proxy Association](https://github.com/dnwls16071/Backend_Study_TIL/wiki/JPA-%E2%80%90-%ED%94%84%EB%A1%9D%EC%8B%9C%EC%99%80-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84)
-* [JPA - Value Type](https://github.com/dnwls16071/Backend_Study_TIL/wiki/JPA-%E2%80%90-%EA%B0%92-%ED%83%80%EC%9E%85)
-* [JPA - Dirty Checking vs. Merge: Understanding the Difference in JPA](https://github.com/dnwls16071/Backend_Study_TIL/wiki/JPA-%EB%B3%80%EA%B2%BD-%EA%B0%90%EC%A7%80%EC%99%80-%EB%B3%91%ED%95%A9(merge))
-* [JPA - Cascading and Orphan Removal in JPA](https://github.com/dnwls16071/Backend_Study_TIL/wiki/%EC%98%81%EC%86%8D%EC%84%B1-%EC%A0%84%EC%9D%B4%EC%99%80-%EA%B3%A0%EC%95%84-%EA%B0%9D%EC%B2%B4)
-* [JPA - Introduction to Object-Oriented Query Languages in JPA](https://github.com/dnwls16071/Backend_Study_TIL/wiki/JPA-%E2%80%90-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%EC%BF%BC%EB%A6%AC-%EC%96%B8%EC%96%B4)
-* [JPA - Spring Data JPA](https://github.com/dnwls16071/Backend_Study_TIL/wiki/JPA-%E2%80%90-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%8D%B0%EC%9D%B4%ED%84%B0-JPA)
-* [JPA ‐ Solving Concurrency Issues with Pessimistic Locking](https://github.com/dnwls16071/Backend_Study_TIL/wiki/JPA-%E2%80%90-Pessimistic-Lock%EC%9C%BC%EB%A1%9C-%EB%8F%99%EC%8B%9C%EC%84%B1-%EC%9D%B4%EC%8A%88-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0)
-* [JPA ‐ Solving Concurrency Issues with Optimistic Locking](https://github.com/dnwls16071/Backend_Study_TIL/wiki/JPA-%E2%80%90-Optimistic-Lock%EC%9C%BC%EB%A1%9C-%EB%8F%99%EC%8B%9C%EC%84%B1-%EC%9D%B4%EC%8A%88-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0)
-* [JPA - Lazy Loading and Performance Optimization in JPA](https://github.com/dnwls16071/Backend_Study_TIL/wiki/API-%EA%B0%9C%EB%B0%9C-%E2%80%90-%EC%A7%80%EC%97%B0%EB%A1%9C%EB%94%A9%EA%B3%BC-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94)
-* [JPA - ManyToOne Important Things](https://github.com/dnwls16071/Backend_Study_TIL/wiki/API-%EA%B0%9C%EB%B0%9C-%E2%80%90-%EC%A7%80%EC%97%B0%EB%A1%9C%EB%94%A9%EA%B3%BC-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94)
-* [JPA - OneToMany Important Things](https://github.com/dnwls16071/Backend_Study_TIL/wiki/API-%EA%B0%9C%EB%B0%9C-%E2%80%90-%EC%A3%BC%EB%AC%B8-%EC%A1%B0%ED%9A%8C-API-%EA%B0%9C%EB%B0%9C%EC%8B%9C-%EC%A3%BC%EC%9D%98%EC%82%AC%ED%95%AD(%EC%9D%BC%EB%8C%80%EB%8B%A4))
-* [JPA - OSIV](https://github.com/dnwls16071/Backend_Study_TIL/wiki/API-%EA%B0%9C%EB%B0%9C-%E2%80%90-OSIV)
-
-## 📖 QueryDsl🥉
-
-> ✏️타입 안전한 쿼리 작성을 지원하는 Java 기반의 쿼리 빌더 라이브러리인 QueryDsl에 대한 내용을 정리합니다.
-
-* [Querydsl - Querydsl](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Querydsl-%E2%80%90-Querydsl-%EC%A0%95%EB%A6%AC)
-
-## 📖 HTTP(Hypertext Transfer Protocol)🥇
-
-> ✏️웹에서 클라이언트와 서버 간 요청과 응답을 주고받기 위한 프로토콜인 HTTP(HyperText Transfer Protocol)에 대한 내용을 정리합니다.
-
-* [HTTP - Internet Network](https://github.com/dnwls16071/Backend_Study_TIL/wiki/HTTP-%E2%80%90-%EC%9D%B8%ED%84%B0%EB%84%B7-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)
-* [HTTP - URI & Browser Request Flow](https://github.com/dnwls16071/Backend_Study_TIL/wiki/HTTP-%E2%80%90-URI%EC%99%80-%EC%9B%B9-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EC%9A%94%EC%B2%AD-%ED%9D%90%EB%A6%84)
-* [HTTP - HTTP Basic](https://github.com/dnwls16071/Backend_Study_TIL/wiki/HTTP-%E2%80%90-HTTP-%EA%B8%B0%EB%B3%B8)
-* [HTTP - HTTP Method](https://github.com/dnwls16071/Backend_Study_TIL/wiki/HTTP-%E2%80%90-HTTP-%EB%A9%94%EC%84%9C%EB%93%9C)
-* [HTTP - HTTP Method Application](https://github.com/dnwls16071/Backend_Study_TIL/wiki/HTTP-%E2%80%90-HTTP-%EB%A9%94%EC%84%9C%EB%93%9C-%ED%99%9C%EC%9A%A9)
-* [HTTP - HTTP Status Code](https://github.com/dnwls16071/Backend_Study_TIL/wiki/HTTP-%E2%80%90-HTTP-%EC%83%81%ED%83%9C%EC%BD%94%EB%93%9C)
-* [HTTP ‐ HTTP Default Header](https://github.com/dnwls16071/Backend_Study_TIL/wiki/HTTP-%E2%80%90-HTTP-%EC%9D%BC%EB%B0%98-%ED%97%A4%EB%8D%94)
-* [HTTP - HTTP Cache & Condition Request](https://github.com/dnwls16071/Backend_Study_TIL/wiki/HTTP-%E2%80%90-%EC%BA%90%EC%8B%9C%EC%99%80-%EC%A1%B0%EA%B1%B4%EB%B6%80-%EC%9A%94%EC%B2%AD)
-
-## 📖 Docker🥈
-
-> ✏️애플리케이션과 그 실행 환경을 컨테이너화하여 일관된 배포와 운영을 지원하는 플랫폼인 Docker에 대한 내용을 정리합니다.
-
-* [Docker - Docker](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Docker-%E2%80%90-Docker-%EA%B8%B0%EB%B3%B8)
-* [Docker ‐ Docker CLI](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Docker-%E2%80%90-Docker-CLI)
-* [Docker ‐ Docker Volume](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Docker-%E2%80%90-Docker-Volume%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%B4-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9C%A0%EC%8B%A4-%EB%B0%A9%EC%A7%80%ED%95%98%EA%B8%B0)
-* [Docker - Dockerfile Image](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Docker-%E2%80%90-Dockerfile-%ED%99%9C%EC%9A%A9%ED%95%B4-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%A7%81%EC%A0%91-%EB%A7%8C%EB%93%A4%EA%B8%B0)
-* [Docker ‐ Docker Compose Container Management](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Docker-%E2%80%90-Docker-Compose%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%B4-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0)
-* [Docker ‐ Deploy(feat. AWS ECR)](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Docker-%E2%80%90-AWS-EC2%EC%97%90%EC%84%9C-Docker%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%B4-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0)
-* [Docker - Cloud Native Technology](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Docker-%E2%80%90-Cloud-Native-Technology)
-* [Docker - Docker Essentials(1)](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Docker-%E2%80%90-Docker-Essentials(1))
-* [Docker - Docker Essentials(2)](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Docker-%E2%80%90-Docker-Essentials(2))
-* [Docker - Docker Network and Storage](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Docker-%E2%80%90-Docker-Network-and-Storage)
-* [Docker - Building and Managing Containerized Application](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Docker-%E2%80%90-Building-and-Managing-Containerized-Application)
-* [Docker - Container Orchestration](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Docker-%E2%80%90-Container-Orchestration)
-* [Docker - Docker Security](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Docker-%E2%80%90-Docker-Security)
-* [Docker - Logging and Monitoring](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Docker-%E2%80%90-Logging-and-Monitoring)
-* [Docker - Advanced Docker Usage](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Docker-%E2%80%90-Advanced-Docker-Usage)
-* [Docker - Container-to-Container Communication](https://github.com/dnwls16071/Backend_Summary/wiki/Docker-%E2%80%90-%EA%B5%90%EC%B0%A8-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%ED%86%B5%EC%8B%A0)
-
-## 📖 Kubernetes🥇
-
-> ✏️컨테이너화된 애플리케이션의 자동 배포, 확장, 관리를 지원하는 오픈소스 컨테이너 오케스트레이션 플랫폼인 Kubernetes에 대한 내용을 정리합니다.
-
-* [Kubernetes - Probe]
-* [Kubernetes - ConfigMap & Secret]
-* [Kubernetes - PV/PVC & Deployment & Service & HPA]
-* [Kubernetes - Blue/Green Deployment]
-* [Kubernetes - Helm & Kustomize]
-* [Kubernetes - ArgoCD]
-* [Kubernetes - Pod]
-* [Kubernetes - Ingress & Nginx Application]
-* [Kubernetes - Node Scheduling]
-* [Kubernetes - Monitoring]
-* [Kubernetes - Logging]
-
-## 📖 CI/CD(Continuous Integration/Continuous Deploy)🥈
-
-> ✏️CI/CD에 대한 내용을 정리합니다.
-
-* [Github Actions - Github Actions](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Github-Actions-%E2%80%90-Github-Actions-%EA%B8%B0%EB%B3%B8-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC)
-* [Jenkins - Jenkins + IaC]
-* [Jenkins - Advanced Jenkins Pipeline]
-* [Jenkins - Advanced Jenkins SonarQube & Multi nodes]
-* [Jenkins - Jenkins Appendix]
-
-## 📖 Redis🥈
-
-> ✏️고성능 인메모리 데이터 저장소이자 캐시, 메시지 브로커로 활용되는 NoSQL 데이터베이스인 Redis에 대한 내용을 정리합니다.
-
-* [Redis ‐ Redis](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Redis-%E2%80%90-Redis-%EA%B8%B0%EB%B3%B8)
-* [Redis ‐ Redis Manual](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Redis-%E2%80%90-Redis-%EC%82%AC%EC%9A%A9%EB%B2%95)
-* [Redis ‐ Redis Cache Strategy](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Redis-%E2%80%90-Redis-%EC%BA%90%EC%8B%B1-%EC%A0%84%EB%9E%B5)
-* [Redis ‐ Redis Master-Slave](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Redis-%E2%80%90-Redis-Master-Slave)
-* [Redis - Redis Cluster Mode](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Redis-%E2%80%90-Redis-Cluster-Mode)
-* [Redis - Redis Cluster](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Redis-%E2%80%90-Docker%EB%A1%9C-Redis-Cluster-%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0)
-* [Redis - Redis Data Structure](https://github.com/dnwls16071/Backend_Summary/wiki/Redis-%E2%80%90-Redis-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)
-* [Redis - Redis pub/sub & streams](https://github.com/dnwls16071/Backend_Summary/wiki/Redis-%E2%80%90-Redis-%EB%B0%9C%ED%96%89-&-%EA%B5%AC%EB%8F%85%EA%B3%BC-streams)
-* [Redis - Redis Server](https://github.com/dnwls16071/Backend_Summary/wiki/Redis-%E2%80%90-Redis-%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%84%B1)
-* [Redis - Reduce DB write load using Redis](https://github.com/dnwls16071/Backend_Summary/wiki/Redis-%E2%80%90-DB%EC%97%90-%EA%B0%80%ED%95%B4%EC%A7%80%EB%8A%94-%EC%93%B0%EA%B8%B0-%EC%9E%91%EC%97%85%EC%9D%84-Redis%EB%A1%9C-%EC%A4%84%EC%9D%B4%EA%B8%B0)
-* [Redis - Solving Concurrency Issues (1)](https://github.com/dnwls16071/Backend_Summary/wiki/Redis-%E2%80%90-%EB%8F%99%EC%8B%9C%EC%84%B1-%EC%9D%B4%EC%8A%88-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0)
-* [Redis ‐ Solving Concurrency Issues (2)](https://github.com/dnwls16071/Backend_Summary/wiki/Redis-%E2%80%90-%EB%8F%99%EC%8B%9C%EC%84%B1-%EC%9D%B4%EC%8A%88%EB%A5%BC-Redis%EB%A1%9C-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0-(1))
-* [Redis - Solving Concurrency Issues (3)](https://github.com/dnwls16071/Backend_Summary/wiki/Redis-%E2%80%90-%EB%8F%99%EC%8B%9C%EC%84%B1-%EC%9D%B4%EC%8A%88%EB%A5%BC-Redis%EB%A1%9C-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0-(2))
-* [Redis - Implementing Popular Searches](https://github.com/dnwls16071/Backend_Summary/wiki/Redis-%E2%80%90-%EC%9D%B8%EA%B8%B0-%EA%B2%80%EC%83%89%EC%96%B4-%EA%B5%AC%ED%98%84)
-* [Redis - API Rate Limiting](https://github.com/dnwls16071/Backend_Summary/wiki/Redis-%E2%80%90-API-Rate-Limiting-%EC%A0%9C%ED%95%9C)
-* [Redis - Geospatial](https://github.com/dnwls16071/Backend_Summary/wiki/Redis-%E2%80%90-Geospatial)
-* [Redis - DAU Counting Application](https://github.com/dnwls16071/Backend_Summary/wiki/Redis-%E2%80%90-DAU-%EC%B9%B4%EC%9A%B4%ED%8C%85-%EC%88%98%EC%A7%91%ED%95%98%EA%B8%B0)
-* [Redis - Session Management Application](https://github.com/dnwls16071/Backend_Summary/wiki/Redis-%E2%80%90-%EC%84%B8%EC%85%98-%EA%B4%80%EB%A6%AC-%EC%A0%80%EC%9E%A5-%EC%9A%A9%EB%8F%84)
-* [Redis - Redis Transaction ACID]
-* [Redis - Redis Data Persistence]
-* [Redis - Redis Keys Management]
-* [Redis - Decoupling microservices with Redis Pub/Sub]
-* [Redis - Redis Pipelining & RTT(Round Trip Time)]
-* [Redis - Redis Streams]
-
-## 📖 MySQL🥈
-
-> ✏️관계형 데이터베이스 관리 시스템(RDBMS) 중 하나로, 안정성과 확장성이 뛰어난 오픈소스 데이터베이스인 MySQL에 대한 내용을 정리합니다.
-
-* [MySQL ‐ Solving Concurrency Problems using Database-Level Locking](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-Boot-%E2%80%90-%EB%8F%99%EC%8B%9C%EC%84%B1-%EC%9D%B4%EC%8A%88%EB%A5%BC-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EB%A1%9C-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0)
-* [MySQL - Checking DB Metrics with SQL Queries]
-* [MySQL - Data Modeling for Practical Service Development]
-* [MySQL - Basic CRUD in MySQL]
-* [MySQL - Exploring Inside MySQL]
-* [MySQL - MySQL Transaction & Locking System]
-* [MySQL - System Design at the Operational Level]
-* [MySQL - Why You Should Use MySQL: JOIN]
-* [MySQL - Must-Know SQL Anti-Patterns]
-* [MySQL - Learning Data Modeling Through Practical Examples]
-* [MySQL - Foreign Key & Strategic Patterns]
-* [MySQL - Advanced Topics in MySQL]
-* [MySQL - Multi Column Index]
-* [MySQL - Covering Index]
-* [MySQL - ORDER BY]
-* [MySQL - INSERT]
-* [MySQL - AUTO_INCREMENT_LOCK]
-* [MySQL - Index Dive Using In Query]
-* [MySQL - MySQL LockType]
-* [MySQL - DeadLock Case]
-* [MySQL - NoOffset For Query Tuning]
-* [MySQL - Skip Locked For Session]
-
-## 📖 Test🥈
-
-> ✏️소프트웨어의 기능과 품질을 검증하기 위한 다양한 테스트 기법과 도구에 대한 내용을 정리합니다.
-
-* [Test - Load Testing Fundamentals](https://github.com/Code-Laboratory/Backend-PlayGround/wiki/Test-%E2%80%90-Stress-Test(%EB%B6%80%ED%95%98-%ED%85%8C%EC%8A%A4%ED%8A%B8))
-* [Test - Diagnosing Bottlenecks via Load Testing]
-* [Test - Performance Tuning: Resolving Bottlenecks]
-* [Test - JUnit5](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Test-%E2%80%90-JUnit5)
-* [Test - Mockito](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Test-%E2%80%90-Mockito)
-* [Test - TestContainers](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Test-%E2%80%90-TestContainer)
-* [Test - JMeter](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Test-%E2%80%90-JMeter)
-* [Test - Chaos Monkey](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Test-%E2%80%90-Chaos-Monkey)
-* [Test - ArchUnit]
-* [Test - Unit Testing Essentials]
-* [Test - TDD]
-* [Test - Testing with Spring & JPA]
-* [Test - A Guide to Effective Mocking](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Test-%E2%80%90-Mock%EC%9D%84-%EB%A7%88%EC%A3%BC%ED%95%98%EB%8A%94-%EC%9E%90%EC%84%B8)
-* [Test - Appendix: Tips for Better Testing](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Test-%E2%80%90-%EB%8D%94-%EB%82%98%EC%9D%80-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%9C%84%ED%95%9C-Appendix)
-
-## 📖 Database🥇
-
-> ✏️데이터베이스에 대해서 공부한 내용을 정리합니다.
-
-* [Database - Database Introduction](https://github.com/dnwls16071/Backend_Summary/wiki/Database-%E2%80%90-Database-%EA%B8%B0%EB%B3%B8)
-* [Database - Search & Sort](https://github.com/dnwls16071/Backend_Summary/wiki/Database-%E2%80%90-%EC%A1%B0%ED%9A%8C%EC%99%80-%EC%A0%95%EB%A0%AC)
-* [Database - Data Processing](https://github.com/dnwls16071/Backend_Summary/wiki/Database-%E2%80%90-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B0%80%EA%B3%B5)
-* [Database - Aggregation & Grouping](https://github.com/dnwls16071/Backend_Summary/wiki/Database-%E2%80%90-%EC%A7%91%EA%B3%84%EC%99%80-%EA%B7%B8%EB%A3%B9%ED%95%91)
-* [Database - Inner Join](https://github.com/dnwls16071/Backend_Summary/wiki/Database-%E2%80%90-%EB%82%B4%EB%B6%80-%EC%A1%B0%EC%9D%B8)
-* [Database - Outer Join & Etc Join](https://github.com/dnwls16071/Backend_Summary/wiki/Database-%E2%80%90-%EC%99%B8%EB%B6%80-%EC%A1%B0%EC%9D%B8%EA%B3%BC-%EA%B8%B0%ED%83%80-%EC%A1%B0%EC%9D%B8)
-* [Database - Sub Query](https://github.com/dnwls16071/Backend_Summary/wiki/Database-%E2%80%90-%EC%84%9C%EB%B8%8C-%EC%BF%BC%EB%A6%AC)
-* [Database - UNION](https://github.com/dnwls16071/Backend_Summary/wiki/Database-%E2%80%90-UNION)
-* [Database - CASE](https://github.com/dnwls16071/Backend_Summary/wiki/Database-%E2%80%90-CASE%EB%AC%B8)
-* [Database - Index](https://github.com/dnwls16071/Backend_Summary/wiki/Database-%E2%80%90-%EC%9D%B8%EB%8D%B1%EC%8A%A4)
-* [Database - Data Integrity](https://github.com/dnwls16071/Backend_Summary/wiki/Database-%E2%80%90-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%AC%B4%EA%B2%B0%EC%84%B1)
-* [Database - Transaction](https://github.com/dnwls16071/Backend_Summary/wiki/Database-%E2%80%90-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98)
-* [Database - Why Database Design Matters](https://github.com/dnwls16071/Backend_Summary/wiki/Database-%E2%80%90-%EC%84%A4%EA%B3%84%EC%9D%98-%EC%A4%91%EC%9A%94%EC%84%B1)
-* [Database - Concept Modeling](https://github.com/dnwls16071/Backend_Summary/wiki/Database-%E2%80%90-%EA%B0%9C%EB%85%90%EC%A0%81-%EB%AA%A8%EB%8D%B8%EB%A7%81)
-* [Database - Logical Data Modeling](https://github.com/dnwls16071/Backend_Summary/wiki/Database-%E2%80%90-%EB%85%BC%EB%A6%AC%EC%A0%81-%EB%AA%A8%EB%8D%B8%EB%A7%81)
-* [Database - Identifying Relationship & Non-Identifying Relationship](https://github.com/Code-Laboratory/Backend/wiki/Database-%E2%80%90-%EC%8B%9D%EB%B3%84-%EA%B4%80%EA%B3%84-&-%EB%B9%84%EC%8B%9D%EB%B3%84-%EA%B4%80%EA%B3%84)
-* [Database - Normalization](https://github.com/Code-Laboratory/Backend/wiki/Database-%E2%80%90-%EC%A0%95%EA%B7%9C%ED%99%94)
-* [Database - Physical Data Modeling](https://github.com/Code-Laboratory/Backend/wiki/Database-%E2%80%90-%EB%AC%BC%EB%A6%AC%EC%A0%81-%EB%AA%A8%EB%8D%B8%EB%A7%81)
-* [Database - Common Code Design](https://github.com/Code-Laboratory/Backend/wiki/Database-%E2%80%90-%EA%B3%B5%ED%86%B5-%EC%BD%94%EB%93%9C-%EC%84%A4%EA%B3%84)
-* [Database - Hierarchical Structure Design](https://github.com/Code-Laboratory/Backend-PlayGround/wiki/Database-%E2%80%90-%EA%B3%84%EC%B8%B5-%EA%B5%AC%EC%A1%B0-%EC%84%A4%EA%B3%84)
-* [Database - Data Change History Design](https://github.com/Code-Laboratory/Backend-PlayGround/wiki/Database-%E2%80%90-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B3%80%EA%B2%BD-%EC%9D%B4%EB%A0%A5-%EC%84%A4%EA%B3%84)
-* [Database - SOFT DELETE](https://github.com/Code-Laboratory/Backend-PlayGround/wiki/Database-%E2%80%90-%EB%AC%BC%EB%A6%AC-%EC%82%AD%EC%A0%9C%EC%99%80-%EB%85%BC%EB%A6%AC-%EC%82%AD%EC%A0%9C)
-* [Database - Statistics Table Design](https://github.com/Code-Laboratory/Backend-PlayGround/wiki/Database-%E2%80%90-%ED%86%B5%EA%B3%84-%ED%85%8C%EC%9D%B4%EB%B8%94-%EC%84%A4%EA%B3%84)
-* [Database - Inheritance Relationship Design](https://github.com/Code-Laboratory/Backend-PlayGround/wiki/Database-%E2%80%90-%EC%83%81%EC%86%8D-%EA%B4%80%EA%B3%84-%EC%84%A4%EA%B3%84)
-* [Database - Entity-Attribute-Value (EAV) Model](https://github.com/Code-Laboratory/Backend-PlayGround/wiki/Database-%E2%80%90-%EB%8F%99%EC%A0%81-%EC%84%A4%EA%B3%84(EAV))
-* [Database - JSON Schema Design](https://github.com/Code-Laboratory/Backend-PlayGround/wiki/Database-%E2%80%90-Json-%EC%84%A4%EA%B3%84)
-
-## 📖 Nginx🥉
-
-> ✏️고성능 웹 서버이자 리버스 프록시, 로드 밸런서 기능을 제공하는 오픈소스 소프트웨어인 Nginx에 대한 내용을 정리합니다.
-
-* [Nginx ‐ Nginx Introduction](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Nginx-%E2%80%90-Nginx-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%8B%A4%ED%96%89-%EB%B0%A9%EB%B2%95-%EC%A0%95%EB%A6%AC)
-* [Nginx ‐ Nginx Supplementary Summary](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Nginx-%E2%80%90-Nginx-%EB%B3%B4%EC%B6%A9-%EC%A0%95%EB%A6%AC)
-* [Nginx ‐ Deploying Domain with Nginx](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Nginx-%E2%80%90-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%A0%81%EC%9A%A9-%EB%B0%A9%EB%B2%95-%EC%A0%95%EB%A6%AC)
-* [Nginx ‐ Implementing HTTPS with Nginx](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Nginx-%E2%80%90-Nginx%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-HTTPS-%EC%A0%81%EC%9A%A9%EC%8B%9C%ED%82%A4%EA%B8%B0)
-* [Nginx ‐ Backend Deployment via Nginx Reverse Proxy](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Nginx-%E2%80%90-%EB%A6%AC%EB%B2%84%EC%8A%A4-%ED%94%84%EB%A1%9D%EC%8B%9C(Reverse-Proxy)%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%84%9C%EB%B2%84-%EB%B0%B0%ED%8F%AC)
-* [Nginx ‐ Load Balancing with Nginx](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Nginx-%E2%80%90-Nginx%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%A1%9C%EB%93%9C-%EB%B0%B8%EB%9F%B0%EC%84%9C)
-* [Nginx - Advanced Concept]
-* [Nginx - Advanced Reverse Proxy]
-
-## 📖 MicroService Architecture🥈
-
-> ✏️MSA 환경에서 사용되는 요소들에 대해서 공부한 내용을 정리합니다.
-
-* [MicroService Architecture - DeComposition Patterns](https://github.com/Code-Laboratory/Backend-PlayGround/wiki/MicroService-Design-Pattern-%E2%80%90-DeComposition-Patterns)
-* [MicroService Architecture - Service Communications Patterns](https://github.com/Code-Laboratory/Backend-PlayGround/wiki/MicroService-Design-Pattern-%E2%80%90-Service-Communications-Patterns)
-* [MicroService Architecture - API Gateway Patterns]
-* [MicroService Architecture - Asynchronous Communications Patterns]
-* [MicroService Architecture - Data Management Patterns]
-* [MicroService Architecture - CQRS Patterns]
-* [MicroService Architecture - Distributed Transactions]
-* [MicroService Architecture - Event-Driven Architecture]
-* [MicroService Architecture - Resilience & Observability and Monitoring]
-* [MicroService Architecture - Security Patterns]
-* [MicroService Architecture - Testing Strategies]
-* [MicroService Architecture - Scalability & Caching Patterns]
-* [MicroService Architecture - Deployment Patterns]
-* [MicroService Architecture - Serverless Architecture]
-* [MicroService Architecture - GraphQL]
-* [MicroService Architecture - Evolution of Distributed Systems and Their Drawbacks]
-* [MicroService Architecture - Protocol Buffers]
-* [MicroService Architecture - gRPC Communication Patterns]
-* [MicroService Architecture - gRPC Optimization Strategies and Implementation]
-
-## 📖 Apache Flink🥈
-
-* [Apache Flink - Apache Flink Architecture]
-* [Apache Flink - Stream Processing]
-* [Apache Flink - Data Stream API & Window]
-* [Apache Flink - State Management]
-
-## 📖 Monitoring🥈
-
-* [Monitoring - Log Concept]
-* [Monitoring - Log Level & Filter]
-* [Monitoring - Logback]
-* [Monitoring - Log Collection with ELK Stack]
-* [Monitoring - Log Monitoring with Kibana]
-* [Monitoring - Building a Monitoring System with Spring Boot Actuator]
-* [Monitoring - Server Monitoring with Prometheus and Grafana with Discord Alerts]
-
-## 📖 Effective Java 3/E🥈
-
-> ✏️Effective Java 3/E에 대해서 읽고 공부한 내용을 정리합니다.
+> ✏️ 프로페셔널 Java 개발자의 필수 지침서, Effective Java를 통해 유지보수하기 좋고 안전한 객체 지향 코드 설계 원칙을 정리합니다.
 
 * [Java ‐ 생성자 대신 정적 팩토리 메서드를 고려하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%83%9D%EC%84%B1%EC%9E%90-%EB%8C%80%EC%8B%A0-%EC%A0%95%EC%A0%81-%ED%8C%A9%ED%86%A0%EB%A6%AC-%EB%A9%94%EC%84%9C%EB%93%9C%EB%A5%BC-%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC%5BEffective-Java-Item-1%5D)
 * [Java - 생성자에 매개변수가 많다면 빌더를 고려하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%83%9D%EC%84%B1%EC%9E%90%EC%97%90-%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98%EA%B0%80-%EB%A7%8E%EB%8B%A4%EB%A9%B4-%EB%B9%8C%EB%8D%94%EB%A5%BC-%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC%5BEffective-Java-Item-2%5D)
@@ -506,7 +101,7 @@
 * [Java ‐ ordinal 인덱싱 대신 EnumMap을 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-ordinal-%EC%9D%B8%EB%8D%B1%EC%8B%B1-%EB%8C%80%EC%8B%A0-EnumMap%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-37%5D)
 * [Java ‐ 확장할 수 있는 열거 타입이 필요하면 인터페이스를 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%ED%99%95%EC%9E%A5%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%97%B4%EA%B1%B0-%ED%83%80%EC%9E%85%EC%9D%B4-%ED%95%84%EC%9A%94%ED%95%98%EB%A9%B4-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-38%5D)
 * [Java ‐ @Override 어노테이션을 일괄되게 사용하라](http://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-@Override-%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98%EC%9D%84-%EC%9D%BC%EA%B4%84%EB%90%98%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-40%5D)
-* [Java ‐ 정의하려는 것이 타입이라면 마커 인터페이스를 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%A0%95%EC%9D%98%ED%95%98%EB%A0%A4%EB%8A%94-%EA%B2%83%EC%9D%B4-%ED%83%80%EC%9E%85%EC%9D%B4%EB%9D%BC%EB%A9%B4-%EB%A7%88%EC%BB%A4-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-41%5D)
+* [Java ‐ 정의하려는 것이 타입이라면 마커 인터페이스를 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%A0%95%EC%9D%98%ED%95%98%EB%A0%A4%EB%8A%94-%EA%B2%80%EC%83%81-%ED%83%80%EC%9E%85%EC%9D%B4%EB%9D%BC%EB%A9%B4-%EB%A7%88%EC%BB%A4-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-41%5D)
 * [Java ‐ 익명 클래스보다는 람다를 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%9D%B5%EB%AA%85-%ED%81%B4%EB%9E%98%EC%8A%A4%EB%B3%B4%EB%8B%A4%EB%8A%94-%EB%9E%8C%EB%8B%A4%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-42%5D)
 * [Java ‐ 람다보다는 메서드 참조를 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EB%9E%8C%EB%8B%A4%EB%B3%B4%EB%8B%A4%EB%8A%94-%EB%A9%94%EC%84%9C%EB%93%9C-%EC%B0%B8%EC%A1%B0%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-43%5D)
 * [Java - 표준 함수형 인터페이스를 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%ED%91%9C%EC%A4%80-%ED%95%A8%EC%88%98%ED%98%95-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-44%5D)
@@ -542,21 +137,25 @@
 * [Java ‐ 메서드가 던지는 모든 예외를 문서화하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EB%A9%94%EC%84%9C%EB%93%9C%EA%B0%80-%EB%8D%98%EC%A7%80%EB%8A%94-%EB%AA%A8%EB%93%A0-%EC%98%88%EC%99%B8%EB%A5%BC-%EB%AC%B8%EC%84%9C%ED%99%94%ED%95%98%EB%9D%BC%5BEffective-Java-Item-74%5D)
 * [Java ‐ 예외의 상세 메시지에 실패 관련 정보를 담으라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%98%88%EC%99%B8%EC%9D%98-%EC%83%81%EC%84%B8-%EB%A9%94%EC%8B%9C%EC%A7%80%EC%97%90-%EC%8B%A4%ED%8C%A8-%EA%B4%80%EB%A0%A8-%EC%A0%95%EB%B3%B4%EB%A5%BC-%EB%8B%B4%EC%9C%BC%EB%9D%BC%5BEffective-Java-Item-75%5D)
 
-## 📖 주니어 백엔드 개발자가 반드시 알아야 할 실무 지식🥈
+### 📖 Kotlin🥇
 
-* [느려진 서비스, 어디부터 봐야 할까](https://github.com/dnwls16071/Backend_Summary/wiki/%EB%8A%90%EB%A0%A4%EC%A7%84-%EC%84%9C%EB%B9%84%EC%8A%A4,-%EC%96%B4%EB%94%94%EB%B6%80%ED%84%B0-%EB%B4%90%EC%95%BC-%ED%95%A0%EA%B9%8C)
-* [성능을 좌우하는 DB 설계와 쿼리](https://github.com/dnwls16071/Backend_Summary/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-%EC%84%B1%EB%8A%A5%EC%9D%84-%EC%A2%8C%EC%9A%B0%ED%95%98%EB%8A%94-DB-%EC%84%A4%EA%B3%84%EC%99%80-%EC%BF%BC%EB%A6%AC)
-* [외부 연동이 문제일 때 살펴봐야 할 것들](https://github.com/dnwls16071/Backend_Summary/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-%EC%99%B8%EB%B6%80-%EC%97%B0%EB%8F%99%EC%9D%B4-%EB%AC%B8%EC%A0%9C%EC%9D%BC-%EB%95%8C-%EC%82%B4%ED%8E%B4%EB%B4%90%EC%95%BC-%ED%95%A0-%EA%B2%83%EB%93%A4)
-* [비동기 연동, 언제 어떻게 써야 할까](https://github.com/dnwls16071/Backend_Summary/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%97%B0%EB%8F%99,-%EC%96%B8%EC%A0%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%8D%A8%EC%95%BC-%ED%95%A0%EA%B9%8C)
-* [동시성, 데이터가 꼬이기 전에 잡아야 한다](https://github.com/dnwls16071/Backend_Summary/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-%EB%8F%99%EC%8B%9C%EC%84%B1,-%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B0%80-%EA%BC%AC%EC%9D%B4%EA%B8%B0-%EC%A0%84%EC%97%90-%EC%9E%A1%EC%95%84%EC%95%BC-%ED%95%9C%EB%8B%A4)
-* [IO 병목, 어떻게 해결하지](https://github.com/dnwls16071/Backend_Summary/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-IO-%EB%B3%91%EB%AA%A9,-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EA%B2%B0%ED%95%98%EC%A7%80)
-* [실무에서 꼭 필요한 보안 지식](https://github.com/dnwls16071/Backend_Summary/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-%EC%8B%A4%EB%AC%B4%EC%97%90%EC%84%9C-%EA%BC%AD-%ED%95%84%EC%9A%94%ED%95%9C-%EB%B3%B4%EC%95%88-%EC%A7%80%EC%8B%9D)
-* [모르면 답답해지는 네트워크 기초](https://github.com/Code-Laboratory/Backend-PlayGround/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-%EB%AA%A8%EB%A5%B4%EB%A9%B4-%EB%8B%B5%EB%8B%B5%ED%95%B4%EC%A7%80%EB%8A%94-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B8%B0%EC%B4%88)
-* [자주 쓰는 서버 구조와 설계 패턴](https://github.com/Code-Laboratory/Backend-PlayGround/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-%EC%9E%90%EC%A3%BC-%EC%93%B0%EB%8A%94-%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%84%A4%EA%B3%84-%ED%8C%A8%ED%84%B4)
+> ✏️ 간결하고 안전한 코드를 지향하는 Kotlin의 핵심 문법부터 함수형 프로그래밍, DSL, 타입 시스템, 그리고 실무적 확장 활용법을 다룹니다.
 
-## 📖 Kotlin Academy - 핵심편🥈
+* [Kotlin - Variables, Types, and Operators in Kotlin](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-Kotlin%EC%97%90%EC%84%9C-%EB%B3%80%EC%88%98%EC%99%80-%ED%83%80%EC%9E%85,-%EC%97%B0%EC%82%B0%EC%9E%90%EB%A5%BC-%EB%8B%A4%EB%A3%A8%EB%8A%94-%EB%B0%A9%EB%B2%95)
+* [Kotlin - Control Flow in Kotlin](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-Kotlin%EC%97%90%EC%84%9C-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%A0%9C%EC%96%B4%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
+* [Kotlin - Object-Oriented Programming in Kotlin](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-Kotlin%EC%97%90%EC%84%9C%EC%9D%98-OOP)
+* [Kotlin - Functional Programming in Kotlin](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-Kotlin%EC%97%90%EC%84%9C%EC%9D%98-FP)
+* [Kotlin - Key Features of Kotlin](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-Kotlin-%ED%8A%B9%EC%A7%95)
+* [Kotlin - Generics in Kotlin](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-Generic)
+* [Kotlin - Lazy Initialization and Delegation in Kotlin](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-%EC%A7%80%EC%97%B0%EA%B3%BC-%EC%9C%84%EC%9E%84)
+* [Kotlin - Advanced Functional Programming in Kotlin](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-%EB%B3%B5%EC%9E%A1%ED%95%9C-%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
+* [Kotlin - Operator Overloading and Kotlin DSL](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-%EC%97%B0%EC%82%B0%EC%9E%90-%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9%EA%B3%BC-Kotlin-DSL)
+* [Kotlin - Annotations and Reflection in Kotlin](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98%EA%B3%BC-%EB%A6%AC%ED%94%8C%EB%A0%89%EC%85%98)
+* [Kotlin - Miscellaneous Topics in Kotlin](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-%EA%B8%B0%ED%83%80)
 
-> ✏️Kotlin Academy - 핵심편에 대해서 읽고 공부한 내용을 정리합니다.
+### 📖 Kotlin Academy - 핵심편🥈
+
+> ✏️ Kotlin Academy 시리즈를 통해 코틀린의 핵심 기능과 실무 적용 방법론을 깊이 있게 정리합니다.
 
 * [Kotlin - 변수](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-%EB%B3%80%EC%88%98%5BEffective-Kotlin-Item-3%5D)
 * [Kotlin - 기본 타입, 기본 타입의 리터럴과 연산](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-%EA%B8%B0%EB%B3%B8-%ED%83%80%EC%9E%85,-%EA%B8%B0%EB%B3%B8-%ED%83%80%EC%9E%85%EC%9D%98-%EB%A6%AC%ED%84%B0%EB%9F%B4%EA%B3%BC-%EC%97%B0%EC%82%B0%5BEffective-Kotlin-Item-4%5D)
@@ -578,9 +177,9 @@
 * [Kotlin - 타입 시스템의 묘미](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-%EC%BD%94%ED%8B%80%EB%A6%B0-%ED%83%80%EC%9E%85-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98-%EB%AC%98%EB%AF%B8%5BEffective-Kotlin-Item-20%5D)
 * [Kotlin - 제네릭](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-%EC%A0%9C%EB%84%A4%EB%A6%AD%5BEffective-Kotlin-Item-21%5D)
 
-## 📖 Kotlin Academy - Effective Kotlin🥈
+### 📖 Kotlin Academy - Effective Kotlin🥈
 
-> ✏️Kotlin Academy - Effective Kotlin에 대해서 읽고 공부한 내용을 정리합니다.
+> ✏️ 가독성 높고 유지보수하기 쉬운 Kotlin 코드 작성을 위한 실전 최적화 원칙들을 정리합니다.
 
 * [Kotlin - 가변성을 제한하라](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-%EA%B0%80%EB%B3%80%EC%84%B1%EC%9D%84-%EC%A0%9C%ED%95%9C%ED%95%98%EB%9D%BC%5BEffective-Kotlin-Item-1%5D)
 * [Kotlin - 임계 영역을 제거하라](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-%EC%9E%84%EA%B3%84-%EC%98%81%EC%97%AD%EC%9D%84-%EC%A0%9C%EA%B1%B0%ED%95%98%EB%9D%BC%5BEffective-Kotlin-Item-2%5D)
@@ -598,10 +197,470 @@
 * [Kotlin ‐ 리시버를 명시적으로 참조하라](https://github.com/Code-Laboratory/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EB%A6%AC%EC%8B%9C%EB%B2%84%EB%A5%BC-%EB%AA%85%EC%8B%9C%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%B0%B8%EC%A1%B0%ED%95%98%EB%9D%BC%5BEffective-Kotlin-Item-14%5D)
 * [Kotlin ‐ 프로퍼티는 동작이 아닌 상태를 나타내야 한다](https://github.com/Code-Laboratory/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0%EB%8A%94-%EB%8F%99%EC%9E%91%EC%9D%B4-%EC%95%84%EB%8B%8C-%EC%83%81%ED%83%9C%EB%A5%BC-%EB%82%98%ED%83%80%EB%82%B4%EC%95%BC-%ED%95%9C%EB%8B%A4%5BEffective-Kotlin-Item-15%5D)
 
-## 📖 가상 면접 사례로 배우는 대규모 시스템 설계 기초🥈
+### 📖 Coroutine🥈
 
+> ✏️ 비동기/논블로킹 프로그래밍을 우아하게 처리하는 Kotlin Coroutine의 디스패처, 동작 원리 및 동시성 제어 메커니즘을 다룹니다.
 
-## 📖 Clean Code🥈
+* [Kotlin - Coroutines Introduction](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-Coroutines-%EA%B8%B0%EC%B4%88)
+* [Kotlin - Coroutines Component & Process Mechanism](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-Coroutines-%EA%B5%AC%EC%84%B1-%EC%9A%94%EC%86%8C%EC%99%80-%EB%8F%99%EC%9E%91-%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98)
+* [Kotlin ‐ Dispatchers](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-Dispatchers)
 
+## 2. Frameworks & Libraries (프레임워크 & 라이브러리)
 
-## 📖 Side Project🥉
+### 📖 Spring🥇
+
+> ✏️ 엔터프라이즈 애플리케이션의 표준, Spring 프레임워크의 DI/IoC, AOP 철학부터 MVC 아키텍처, 트랜잭션 관리 체계까지 백엔드 기반 기술을 깊이 있게 파헤칩니다.
+
+* [Spring - OOP & Spring](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%EC%84%A4%EA%B3%84%EC%99%80-%EC%8A%A4%ED%94%84%EB%A7%81)
+* [Spring - Spring Container & Spring Bean](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EC%99%80-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B9%88)
+* [Spring - Singleton Container](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EC%8B%B1%EA%B8%80%ED%86%A4-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88)
+* [Spring - Dependency Injection](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EC%9D%98%EC%A1%B4%EA%B4%80%EA%B3%84-%EC%9E%90%EB%8F%99-%EC%A3%BC%EC%9E%85)
+* [Spring - Bean LifeCycle Callback](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EB%B9%88-%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0-%EC%BD%9C%EB%B0%B1)
+* [Spring - Bean Scope](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EB%B9%88-%EC%8A%A4%BD%94%ED%94%84)
+* [Spring ‐ Web Server, Web Application server](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EC%9B%B9-%EC%84%9C%EB%B2%84,-%EC%9B%B9-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%84%9C%EB%B2%84)
+* [Spring ‐ Servlet](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EC%84%9C%EB%B8%94%EB%A6%BF)
+* [Spring ‐ Servlet & JSP & MVC](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EC%84%9C%EB%B8%94%EB%A6%BF,-JSP,-MVC-%ED%8C%A8%ED%84%B4)
+* [Spring ‐ MVC Framework](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-MVC-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC)
+* [Spring ‐ Spring MVC](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EC%8A%A4%ED%94%84%EB%A7%81-MVC-%EA%B5%AC%EC%A1%B0-%EC%9D%B4%ED%95%B4)
+* [Spring - Thymeleaf](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-Thymeleaf)
+* [Spring - Message & Internationalization](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EB%A9%94%EC%8B%9C%EC%A7%80,-%EA%B5%AD%EC%A0%9C%ED%99%94)
+* [Spring - Validation](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-Validation)
+* [Spring - Bean Validation](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-Bean-Validation)
+* [Spring - Cookie & Session](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EC%BF%A0%ED%82%A4%EC%99%80-%EC%84%B8%EC%85%98)
+* [Spring - Filter & Interceptor](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%ED%95%84%ED%84%B0%EC%99%80-%EC%9D%B8%ED%84%B0%EC%85%89%ED%84%B0)
+* [Spring - API Exception Handling](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EC%98%88%EC%99%B8-%EC%B2%98%EB%A6%AC)
+* [Spring - Spring Type Converter](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EC%8A%A4%ED%94%84%EB%A7%81-%ED%83%80%EC%9E%85-%EC%BB%A8%EB%B2%84%ED%84%B0)
+* [Spring - File Upload](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%ED%8C%8C%EC%9D%BC-%EC%97%85%EB%A1%9C%EB%93%9C)
+* [Spring - Connection Pool & DataSource](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EC%BB%A4%EB%84%A5%EC%85%98%ED%92%80%EA%B3%BC-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%86%8C%EC%8A%A4)
+* [Spring - Transaction](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98)
+* [Spring ‐ Spring Exception Abstraction](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%98%88%EC%99%B8-%EC%B6%94%EC%83%81%ED%99%94)
+* [Spring - Database Access](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-Database-Access)
+* [Spring ‐ Spring Transaction](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EC%8A%A4%ED%94%84%EB%A7%81-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EC%9D%B4%ED%95%B4)
+* [Spring ‐ Spring Transaction Propagation](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EC%8A%A4%ED%94%84%EB%A7%81-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EC%A0%84%ED%8C%8C)
+* [Spring ‐ Thread Local](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-Thread-Local(%EC%93%B0%EB%A0%88%EB%93%9C-%EB%A1%9C%EC%BB%AC))
+* [Spring ‐ Template Method Pattern & Callback Pattern](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%ED%85%9C%ED%94%8C%EB%A6%BF-%EB%A9%94%EC%84%9C%EB%93%9C-%ED%8C%A8%ED%84%B4%EA%B3%BC-%EC%BD%9C%EB%B0%B1-%ED%8C%A8%ED%84%B4)
+* [Spring ‐ Dynamic Proxy](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring--%E2%80%90-%EB%8F%99%EC%A0%81-%ED%94%84%EB%A1%9D%EC%8B%9C-%EA%B8%B0%EC%88%A0)
+* [Spring ‐ Spring Proxy](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EC%8A%A4%ED%94%84%EB%A7%81%EC%9D%B4-%EC%A7%80%EC%9B%90%ED%95%98%EB%8A%94-%ED%94%84%EB%A1%9D%EC%8B%9C)
+* [Spring ‐ Bean Processor](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EB%B9%88-%ED%9B%84%EC%B2%98%EB%A6%AC%EA%B8%B0)
+* [Spring ‐ @Aspect AOP](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-@Aspect-AOP)
+* [Spring ‐ Spring AOP](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EC%8A%A4%ED%94%84%EB%A7%81-AOP)
+* [Spring ‐ Spring AOP Application](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EC%8A%A4%ED%94%84%EB%A7%81-AOP-%EA%B5%AC%ED%98%84)
+* [Spring - Async Programming](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-Reactive-Programming)
+* [Spring - MyBatis](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-Mybatis)
+* [Spring - ArgumentResolver & Annotation](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-%E2%80%90-ArgumentResolver%EA%B3%BC-Annotation%EC%9C%BC%EB%A1%9C-%EC%BD%94%EB%93%9C-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81%ED%95%98%EA%B8%B0)
+* [Spring ‐ URL Encoding](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-%E2%80%90-URL-%EC%9D%B8%EC%BD%94%EB%94%A9)
+* [Spring - Cache Annotation](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-%E2%80%90-Cache-%EC%B6%94%EC%83%81%ED%99%94)
+* [Spring - Retry](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-%E2%80%90-Retry)
+
+### 📖 Spring Security🥇
+
+> ✏️ 안전한 서비스 구축을 위한 핵심 프레임워크, Spring Security의 인증 및 인가 아키텍처, 세션/토큰 관리 메커니즘, 그리고 OAuth 2.0 기반의 확장된 보안 인프라를 다룹니다.
+
+* [Spring Security - Initialization](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-%EC%B4%88%EA%B8%B0%ED%99%94-%EC%84%A4%EC%A0%95)
+* [Spring Security - Authentication Process](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-%EC%9D%B8%EC%A6%9D-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EC%9D%B4%ED%95%B4)
+* [Spring Security - Authentication Architecture](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-%EC%9D%B8%EC%A6%9D-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%9D%B4%ED%95%B4)
+* [Spring Security - Authentication Status Persistence Processing Mechanism](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-%EC%9D%B8%EC%A6%9D-%EC%83%81%ED%83%9C-%EC%98%81%EC%86%8D%EC%84%B1-%EC%B2%98%EB%A6%AC-%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98)
+* [Spring Security - Session Management](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-%EC%84%B8%EC%85%98-%EA%B4%80%EB%A6%AC-%EB%B0%A9%EB%B2%95)
+* [Spring Security - Exception Handling](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-%EC%98%88%EC%99%B8-%EC%B2%98%EB%A6%AC-%ED%95%B8%EB%93%A4%EB%A7%81-%EB%B0%A9%EB%B2%95)
+* [Spring Security - Mechanisms for responding to Malicious Attacks](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-%EC%95%85%EC%9D%98%EC%A0%81%EC%9D%B8-%EA%B3%B5%EA%B2%A9%EC%97%90-%EB%8C%80%ED%95%9C-%EB%8C%80%EC%B2%98-%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98)
+* [Spring Security - Authorization Process](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-%EC%9D%B8%EA%B0%80-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4)
+* [Spring Security - Authorization Architecture](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-%EC%9D%B8%EA%B0%80-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
+* [Spring Security - Multiple Security Settings](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-%EB%8B%A4%EC%A4%91-%EB%B3%B4%EC%95%88-%EC%84%A4%EC%A0%95)
+* [Spring Security - Redis Redundancy Settings](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-Redis%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%9D%B4%EC%A4%91%ED%99%94-%EC%84%A4%EC%A0%95)
+* [Spring Security - Event](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%B2%98%EB%A6%AC)
+* [Spring Security - Integration](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-Integration)
+* [Spring Security - OAuth 2.0](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-Spring-Security-OAuth-2.0)
+* [Spring Security - OAuth 2.0 Authorization Type](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-OAuth-2.0-%EA%B6%8C%ED%95%9C%EB%B6%80%EC%97%AC-%EC%9C%A0%ED%98%95)
+* [Spring Security - Open ID Connect](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-Open-ID-Connect)
+* [Spring Security - OAuth 2.0 Client](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-OAuth-2.0-Client)
+* [Spring Security - OAuth 2.0 Client Fundamentals](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-OAuth-2.0-Client-Fundamentals)
+* [Spring Security - OAuth 2.0 oauth2Login](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-OAuth-2.0-oauth2Login)
+* [Spring Security - OAuth 2.0 oauth2Client](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-OAuth-2.0-oauth2Client)
+* [Spring Security - OAuth 2.0 Resource Server](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-OAuth-2.0-Resource-Server)
+* [Spring Security - OAuth 2.0 Resource Server API](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-OAuth-2.0-Resource-Server-API)
+* [Spring Security - OAuth 2.0 Verification](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-OAuth-2.0-%EA%B2%80%EC%A6%9D)
+* [Spring Security - OAuth 2.0 MAC & RSA Token Verification](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-OAuth-2.0-MAC-&-RSA-%ED%86%A0%ED%81%B0-%EA%B2%80%EC%A6%9D)
+* [Spring Security - OAuth 2.0 Resource Server Permission Implementation](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-OAuth-2.0-Resource-Server-%EA%B6%8C%ED%95%9C-%EA%B5%AC%ED%98%84)
+* [Spring Security - OAuth 2.0 opaque()](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-OAuth-2.0-opaque())
+* [Spring Security - Authorization Server](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-Authorization-Server)
+* [Spring Security - Authorization Server Main Domain Class](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-Authorization-Server-%EC%A3%BC%EC%9A%94-%EB%8F%84%EB%A9%94%EC%9D%B8-%ED%81%B4%EB%9E%98%EC%8A%A4)
+* [Spring Security - Authorization Server Endpoint Protocol](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-Authorization-Server-%EC%97%94%EB%93%9C%ED%8F%AC%EC%9D%B8%ED%8A%B8-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C)
+
+### 📖 Spring Batch🥈
+
+> ✏️ 대용량 데이터의 안정적인 일괄 처리를 위한 Spring Batch의 청크 지향 프로세싱, 스케줄링, 스레드 병렬 처리 및 장애 대응 전략을 정리합니다.
+
+* [Spring Batch - Introduction](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Batch-%E2%80%90-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B0%B0%EC%B9%98-%EC%86%8C%EA%B0%9C)
+* [Spring Batch - Batch Concept](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Batch-%E2%80%90-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B0%B0%EC%B9%98-%EC%8B%9C%EC%9E%91)
+* [Spring Batch - Batch Domain](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Batch-%E2%80%90-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B0%B0%EC%B9%98-%EB%8F%84%EB%A9%94%EC%9D%B8)
+* [Spring Batch - Job](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Batch-%E2%80%90-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B0%B0%EC%B9%98-%EC%8B%A4%ED%96%89(Job))
+* [Spring Batch - Step](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Batch-%E2%80%90-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B0%B0%EC%B9%98-%EC%8B%A4%ED%96%89(Step))
+* [Spring Batch - Flow](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Batch-%E2%80%90-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B0%B0%EC%B9%98-%EC%8B%A4%ED%96%89-%E2%80%90-Flow)
+* [Spring Batch - Chunk Process](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Batch-%E2%80%90-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B0%B0%EC%B9%98-%EC%B2%AD%ED%81%AC-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EC%9D%B4%ED%95%B4)
+* [Spring Batch - ItemReader](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Batch-%E2%80%90-ItemReader)
+* [Spring Batch - ItemWriter](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Batch-%E2%80%90-ItemWriter)
+* [Spring Batch - ItemProcessor](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Batch-%E2%80%90-ItemProcessor)
+* [Spring Batch - Retry & Error Handling](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Batch-%E2%80%90-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B0%B0%EC%B9%98-%EB%B0%98%EB%B3%B5-%EB%B0%8F-%EC%98%A4%EB%A5%98-%EC%A0%9C%EC%96%B4-%EC%B2%98%EB%A6%AC)
+* [Spring Batch - Multi Threads Processing](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Batch-%E2%80%90-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B0%B0%EC%B9%98-%EB%A9%80%ED%8B%B0-%EC%93%B0%EB%A0%88%EB%93%9C-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8B%B1)
+* [Spring Batch - Batch Event Listener]
+* [Spring Batch - Batch Test]
+* [Spring Batch - File Processing]
+* [Spring Batch - Read and Write Operations in Relational Databases and NoSQL]
+* [Spring Batch - FaultTolerant & ItemStream]
+* [Spring Batch - Partitioning]
+
+### 📖 Reactive Programming🥈
+
+> ✏️ 대규모 트래픽 처리를 위한 비동기 이벤트 기반 프로그래밍 패러다임, Project Reactor 및 Spring WebFlux의 스트림 처리와 백프레셔(Backpressure) 메커니즘을 다룹니다.
+
+* [Reactive Programming - Reactive System & Reactive Programming]
+* [Reactive Programming - Reactive Streams]
+* [Reactive Programming - Blocking I/O & Non-Blocking I/O]
+* [Reactive Programming - Reactor Outline]
+* [Reactive Programming - Marble Diagram]
+* [Reactive Programming - Cold Sequence & Hot Sequence]
+* [Reactive Programming - Backpressure]
+* [Reactive Programming - Sinks]
+* [Reactive Programming - Scheduler]
+* [Reactive Programming - Context]
+* [Reactive Programming - Debugging]
+* [Reactive Programming - Testing]
+* [Reactive Programming - Operators]
+* [Reactive Programming - Spring Webflux]
+* [Reactive Programming - Annotation Based Controller]
+* [Reactive Programming - Functional Endpoint]
+* [Reactive Programming - Spring Data R2DBC]
+* [Reactive Programming - Exception Handling]
+* [Reactive Programming - WebClient]
+* [Reactive Programming - Reactive Streaming Data Processing]
+* [Reactive Programming - Everything About Reactive Programming]
+* [Reactive Programming - Fundamentals of WebFlux and Reactor]
+* [Reactive Programming - Core Operators in WebFlux Reactor]
+* [Reactive Programming - Practical Patterns in WebFlux]
+* [Reactive Programming - WebFlux Patterns with Spring Boot]
+
+## 3. Database & ORM (데이터베이스 & ORM)
+
+### 📖 Database🥇
+
+> ✏️ 서비스의 근간인 데이터 관리를 위한 RDBMS의 핵심 개념, 트랜잭션, 정규화 과정 및 실무적인 논리/물리 데이터 모델링 기법을 폭넓게 학습합니다.
+
+* [Database - Database Introduction](https://github.com/dnwls16071/Backend_Summary/wiki/Database-%E2%80%90-Database-%EA%B8%B0%EB%B3%B8)
+* [Database - Search & Sort](https://github.com/dnwls16071/Backend_Summary/wiki/Database-%E2%80%90-%EC%A1%B0%ED%9A%8C%EC%99%80-%EC%A0%95%EB%A0%AC)
+* [Database - Data Processing](https://github.com/dnwls16071/Backend_Summary/wiki/Database-%E2%80%90-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B0%80%EA%B3%B5)
+* [Database - Aggregation & Grouping](https://github.com/dnwls16071/Backend_Summary/wiki/Database-%E2%80%90-%EC%A7%91%EA%B3%84%EC%99%80-%EA%B7%B8%EB%A3%B9%ED%95%91)
+* [Database - Inner Join](https://github.com/dnwls16071/Backend_Summary/wiki/Database-%E2%80%90-%EB%82%B4%EB%B6%80-%EC%A1%B0%EC%9D%B8)
+* [Database - Outer Join & Etc Join](https://github.com/dnwls16071/Backend_Summary/wiki/Database-%E2%80%90-%EC%99%B8%EB%B6%80-%EC%A1%B0%EC%9D%B8%EA%B3%BC-%EA%B8%B0%ED%83%80-%EC%A1%B0%EC%9D%B8)
+* [Database - Sub Query](https://github.com/dnwls16071/Backend_Summary/wiki/Database-%E2%80%90-%EC%84%9C%EB%B8%8C-%EC%BF%BC%EB%A6%AC)
+* [Database - UNION](https://github.com/dnwls16071/Backend_Summary/wiki/Database-%E2%80%90-UNION)
+* [Database - CASE](https://github.com/dnwls16071/Backend_Summary/wiki/Database-%E2%80%90-CASE%EB%AC%B8)
+* [Database - Index](https://github.com/dnwls16071/Backend_Summary/wiki/Database-%E2%80%90-%EC%9D%B8%EB%8D%B1%EC%8A%A4)
+* [Database - Data Integrity](https://github.com/dnwls16071/Backend_Summary/wiki/Database-%E2%80%90-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%AC%B4%EA%B2%B0%EC%84%B1)
+* [Database - Transaction](https://github.com/dnwls16071/Backend_Summary/wiki/Database-%E2%80%90-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98)
+* [Database - Why Database Design Matters](https://github.com/dnwls16071/Backend_Summary/wiki/Database-%E2%80%90-%EC%84%A4%EA%B3%84%EC%9D%98-%EC%A4%91%EC%9A%94%EC%84%B1)
+* [Database - Concept Modeling](https://github.com/dnwls16071/Backend_Summary/wiki/Database-%E2%80%90-%EA%B0%9C%EB%85%90%EC%A0%81-%EB%AA%A8%EB%8D%B8%EB%A7%81)
+* [Database - Logical Data Modeling](https://github.com/dnwls16071/Backend_Summary/wiki/Database-%E2%80%90-%EB%85%BC%EB%A6%AC%EC%A0%81-%EB%AA%A8%EB%8D%B8%EB%A7%81)
+* [Database - Identifying Relationship & Non-Identifying Relationship](https://github.com/Code-Laboratory/Backend/wiki/Database-%E2%80%90-%EC%8B%9D%EB%B3%84-%EA%B4%80%EA%B3%84-&-%EB%B9%84%EC%8B%9D%EB%B3%84-%EA%B4%80%EA%B3%84)
+* [Database - Normalization](https://github.com/Code-Laboratory/Backend/wiki/Database-%E2%80%90-%EC%A0%95%EA%B7%9C%ED%99%94)
+* [Database - Physical Data Modeling](https://github.com/Code-Laboratory/Backend/wiki/Database-%E2%80%90-%EB%AC%BC%EB%A6%AC%EC%A0%81-%EB%AA%A8%EB%8D%B8%EB%A7%81)
+* [Database - Common Code Design](https://github.com/Code-Laboratory/Backend/wiki/Database-%E2%80%90-%EA%B3%B5%ED%86%B5-%EC%BD%94%EB%93%9C-%EC%84%A4%EA%B3%84)
+* [Database - Hierarchical Structure Design](https://github.com/Code-Laboratory/Backend-PlayGround/wiki/Database-%E2%80%90-%EA%B3%84%EC%B8%B5-%EA%B5%AC%EC%A1%B0-%EC%84%A4%EA%B3%84)
+* [Database - Data Change History Design](https://github.com/Code-Laboratory/Backend-PlayGround/wiki/Database-%E2%80%90-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B3%80%EA%B2%BD-%EC%9D%B4%EB%A0%A5-%EC%84%A4%EA%B3%84)
+* [Database - SOFT DELETE](https://github.com/Code-Laboratory/Backend-PlayGround/wiki/Database-%E2%80%90-%EB%AC%BC%EB%A6%AC-%EC%82%AD%EC%A0%9C%EC%99%80-%EB%85%BC%EB%A6%AC-%EC%82%AD%EC%A0%9C)
+* [Database - Statistics Table Design](https://github.com/Code-Laboratory/Backend-PlayGround/wiki/Database-%E2%80%90-%ED%86%B5%EA%B3%84-%ED%85%8C%EC%9D%B4%EB%B8%94-%EC%84%A4%EA%B3%84)
+* [Database - Inheritance Relationship Design](https://github.com/Code-Laboratory/Backend-PlayGround/wiki/Database-%E2%80%90-%EC%83%81%EC%86%8D-%EA%B4%80%EA%B3%84-%EC%84%A4%EA%B3%84)
+* [Database - Entity-Attribute-Value (EAV) Model](https://github.com/Code-Laboratory/Backend-PlayGround/wiki/Database-%E2%80%90-%EB%8F%99%EC%A0%81-%EC%84%A4%EA%B3%84(EAV))
+* [Database - JSON Schema Design](https://github.com/Code-Laboratory/Backend-PlayGround/wiki/Database-%E2%80%90-Json-%EC%84%A4%EA%B3%84)
+
+### 📖 MySQL🥈
+
+> ✏️ 세계에서 가장 대중적인 RDBMS, MySQL의 인덱스 튜닝, 락(Lock)을 통한 동시성 제어 및 커넥션 풀 관리 등 실전 성능 최적화 사례를 다룹니다.
+
+* [MySQL ‐ Solving Concurrency Problems using Database-Level Locking](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-Boot-%E2%80%90-%EB%8F%99%EC%8B%9C%EC%84%B1-%EC%9D%B4%EC%8A%88%EB%A5%BC-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EB%A1%9C-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0)
+* [MySQL - Checking DB Metrics with SQL Queries](https://github.com/woojin-playground/Backend-PlayGround/wiki/MySQL-%E2%80%90-Checking-DB-Metrics-with-SQL-Queries)
+* [MySQL - Data Modeling for Practical Service Development](https://github.com/woojin-playground/Backend-PlayGround/wiki/MySQL-%E2%80%90-Data-Modeling-for-Practical-Service-Development)
+* [MySQL - Basic CRUD in MySQL](https://github.com/woojin-playground/Backend-PlayGround/wiki/MySQL-%E2%80%90-Basic-CRUD-in-MySQL)
+* [⚠️MySQL - Exploring Inside MySQL](https://github.com/woojin-playground/Backend-PlayGround/wiki/MySQL-%E2%80%90-Exploring-Inside-MySQL)
+* [MySQL - MySQL Horizontal Scaling](https://github.com/woojin-playground/Backend-PlayGround/wiki/MySQL-%E2%80%90-MySQL-Horizontal-Scaling)
+* [MySQL - MySQL Fundamentals](https://github.com/woojin-playground/Backend-PlayGround/wiki/MySQL-%E2%80%90-MySQL-Fundamentals)
+* [MySQL - Why You Should Use MySQL: JOIN]
+* [MySQL - Must-Know SQL Anti-Patterns]
+* [MySQL - Learning Data Modeling Through Practical Examples]
+* [MySQL - Foreign Key & Strategic Patterns]
+* [MySQL - Advanced Topics in MySQL]
+* [MySQL - Multi Column Index]
+* [MySQL - Covering Index]
+* [MySQL - ORDER BY]
+* [MySQL - INSERT]
+* [MySQL - AUTO_INCREMENT_LOCK]
+* [MySQL - Index Dive Using In Query]
+* [MySQL - MySQL LockType]
+* [MySQL - DeadLock Case]
+* [MySQL - NoOffset For Query Tuning]
+* [MySQL - Skip Locked For Session]
+* [MySQL - Connection Pool Management(feat. HikariCP)]
+
+### 📖 Redis🥈
+
+> ✏️ 초고속 인메모리 스토어 Redis를 활용한 캐싱 전략, 세션 클러스터링, 동시성 이슈 해결(분산 락) 및 데이터 영속성 관리 기법을 정리합니다.
+
+* [Redis ‐ Redis](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Redis-%E2%80%90-Redis-%EA%B8%B0%EB%B3%B8)
+* [Redis ‐ Redis Manual](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Redis-%E2%80%90-Redis-%EC%82%AC%EC%9A%A9%EB%B2%95)
+* [Redis ‐ Redis Cache Strategy](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Redis-%E2%80%90-Redis-%EC%BA%90%EC%8B%B1-%EC%A0%84%EB%9E%B5)
+* [Redis ‐ Redis Master-Slave](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Redis-%E2%80%90-Redis-Master-Slave)
+* [Redis - Redis Cluster Mode](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Redis-%E2%80%90-Redis-Cluster-Mode)
+* [Redis - Redis Cluster](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Redis-%E2%80%90-Docker%EB%A1%9C-Redis-Cluster-%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0)
+* [Redis - Redis Data Structure](https://github.com/dnwls16071/Backend_Summary/wiki/Redis-%E2%80%90-Redis-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)
+* [Redis - Redis pub/sub & streams](https://github.com/dnwls16071/Backend_Summary/wiki/Redis-%E2%80%90-Redis-%EB%B0%9C%ED%96%89-&-%EA%B5%AC%EB%8F%85%EA%B3%BC-streams)
+* [Redis - Redis Server](https://github.com/dnwls16071/Backend_Summary/wiki/Redis-%E2%80%90-Redis-%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%84%B1)
+* [Redis - Reduce DB write load using Redis](https://github.com/dnwls16071/Backend_Summary/wiki/Redis-%E2%80%90-DB%EC%97%90-%EA%B0%80%ED%95%B4%EC%A7%80%EB%8A%94-%EC%93%B0%EA%B8%B0-%EC%9E%91%EC%97%85%EC%9D%84-Redis%EB%A1%9C-%EC%A4%84%EC%9D%B4%EA%B8%B0)
+* [Redis - Solving Concurrency Issues (1)](https://github.com/dnwls16071/Backend_Summary/wiki/Redis-%E2%80%90-%EB%8F%99%EC%8B%9C%EC%84%B1-%EC%9D%B4%EC%8A%88-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0)
+* [Redis ‐ Solving Concurrency Issues (2)](https://github.com/dnwls16071/Backend_Summary/wiki/Redis-%E2%80%90-%EB%8F%99%EC%8B%9C%EC%84%B1-%EC%9D%B4%EC%8A%88%EB%A5%BC-Redis%EB%A1%9C-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0-(1))
+* [Redis - Solving Concurrency Issues (3)](https://github.com/dnwls16071/Backend_Summary/wiki/Redis-%E2%80%90-%EB%8F%99%EC%8B%9C%EC%84%B1-%EC%9D%B4%EC%8A%88%EB%A5%BC-Redis%EB%A1%9C-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0-(2))
+* [Redis - Implementing Popular Searches](https://github.com/dnwls16071/Backend_Summary/wiki/Redis-%E2%80%90-%EC%9D%B8%EA%B8%B0-%EA%B2%80%EC%83%89%EC%96%B4-%EA%B5%AC%ED%98%84)
+* [Redis - API Rate Limiting](https://github.com/dnwls16071/Backend_Summary/wiki/Redis-%E2%80%90-API-Rate-Limiting-%EC%A0%9C%ED%95%9C)
+* [Redis - Geospatial](https://github.com/dnwls16071/Backend_Summary/wiki/Redis-%E2%80%90-Geospatial)
+* [Redis - DAU Counting Application](https://github.com/dnwls16071/Backend_Summary/wiki/Redis-%E2%80%90-DAU-%EC%B9%B4%EC%9A%B4%ED%8C%85-%EC%88%98%EC%A7%91%ED%95%98%EA%B8%B0)
+* [Redis - Session Management Application](https://github.com/dnwls16071/Backend_Summary/wiki/Redis-%E2%80%90-%EC%84%B8%EC%85%98-%EA%B4%80%EB%A6%AC-%EC%A0%80%EC%9E%A5-%EC%9A%A9%EB%8F%84)
+* [Redis - Redis Transaction ACID]
+* [Redis - Redis Data Persistence]
+* [Redis - Redis Keys Management]
+* [Redis - Decoupling microservices with Redis Pub/Sub]
+* [Redis - Redis Pipelining & RTT(Round Trip Time)]
+* [Redis - Redis Streams]
+
+### 📖 JPA(Java Persistence API)🥈
+
+> ✏️ 객체 지향과 관계형 DB 간의 패러다임 불일치를 해소하는 JPA의 영속성 컨텍스트, 연관관계 매핑, N+1 문제 해결 및 성능 최적화 노하우를 다룹니다.
+
+* [JPA - Java Persistence API](https://github.com/dnwls16071/Backend_Study_TIL/wiki/JPA-%E2%80%90-JPA(Java-Persistence-API))
+* [JPA - Entity Mapping & PK Strategy](https://github.com/dnwls16071/Backend_Study_TIL/wiki/JPA-%E2%80%90-%EC%97%94%ED%8B%B0%ED%8B%B0-%EB%A7%A4%ED%95%91-%EB%B0%8F-%EA%B8%B0%EB%B3%B8%ED%82%A4-%EC%83%9D%EC%84%B1-%EC%A0%84%EB%9E%B5-%EC%A0%95%EB%A6%AC)
+* [JPA ‐ JPA Association Mapping](https://github.com/dnwls16071/Backend_Study_TIL/wiki/JPA-%E2%80%90-JPA-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84-%EB%A7%A4%ED%95%91)
+* [JPA - Proxy Association](https://github.com/dnwls16071/Backend_Study_TIL/wiki/JPA-%E2%80%90-%ED%94%84%EB%A1%9D%EC%8B%9C%EC%99%80-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84)
+* [JPA - Value Type](https://github.com/dnwls16071/Backend_Study_TIL/wiki/JPA-%E2%80%90-%EA%B0%92-%ED%83%80%EC%9E%85)
+* [JPA - Dirty Checking vs. Merge: Understanding the Difference in JPA](https://github.com/dnwls16071/Backend_Study_TIL/wiki/JPA-%EB%B3%80%EA%B2%BD-%EA%B0%90%EC%A7%80%EC%99%80-%EB%B3%91%ED%95%A9(merge))
+* [JPA - Cascading and Orphan Removal in JPA](https://github.com/dnwls16071/Backend_Study_TIL/wiki/%EC%98%81%EC%86%8D%EC%84%B1-%EC%A0%84%EC%9D%B4%EC%99%80-%EA%B3%A0%EC%95%84-%EA%B0%9D%EC%B2%B4)
+* [JPA - Introduction to Object-Oriented Query Languages in JPA](https://github.com/dnwls16071/Backend_Study_TIL/wiki/JPA-%E2%80%90-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%EC%BF%BC%EB%A6%AC-%EC%96%B8%EC%96%B4)
+* [JPA - Spring Data JPA](https://github.com/dnwls16071/Backend_Study_TIL/wiki/JPA-%E2%80%90-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%8D%B0%EC%9D%B4%ED%84%B0-JPA)
+* [JPA ‐ Solving Concurrency Issues with Pessimistic Locking](https://github.com/dnwls16071/Backend_Study_TIL/wiki/JPA-%E2%80%90-Pessimistic-Lock%EC%9C%BC%EB%A1%9C-%EB%8F%99%EC%8B%9C%EC%84%B1-%EC%9D%B4%EC%8A%88-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0)
+* [JPA ‐ Solving Concurrency Issues with Optimistic Locking](https://github.com/dnwls16071/Backend_Study_TIL/wiki/JPA-%E2%80%90-Optimistic-Lock%EC%9C%BC%EB%A1%9C-%EB%8F%99%EC%8B%9C%EC%84%B1-%EC%9D%B4%EC%8A%88-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0)
+* [JPA - Lazy Loading and Performance Optimization in JPA](https://github.com/dnwls16071/Backend_Study_TIL/wiki/API-%EA%B0%9C%EB%B0%9C-%E2%80%90-%EC%A7%80%EC%97%B0%EB%A1%9C%EB%94%A9%EA%B3%BC-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94)
+* [JPA - ManyToOne Important Things](https://github.com/dnwls16071/Backend_Study_TIL/wiki/API-%EA%B0%9C%EB%B0%9C-%E2%80%90-%EC%A7%80%EC%97%B0%EB%A1%9C%EB%94%A9%EA%B3%BC-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94)
+* [JPA - OneToMany Important Things](https://github.com/dnwls16071/Backend_Study_TIL/wiki/API-%EA%B0%9C%EB%B0%9C-%E2%80%90-%EC%A3%BC%EB%AC%B8-%EC%A1%B0%ED%9A%8C-API-%EA%B0%9C%EB%B0%9C%EC%8B%9C-%EC%A3%BC%EC%9D%98%EC%82%AC%ED%95%AD(%EC%9D%BC%EB%8C%80%EB%8B%A4))
+* [JPA - OSIV](https://github.com/dnwls16071/Backend_Study_TIL/wiki/API-%EA%B0%9C%EB%B0%9C-%E2%80%90-OSIV)
+
+### 📖 QueryDsl🥉
+
+> ✏️ 컴파일 타임에 타입 안정성을 보장하며, 복잡한 동적 쿼리를 직관적이고 객체 지향적으로 작성하게 해주는 QueryDsl 실무 활용법을 다룹니다.
+
+* [Querydsl - Querydsl](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Querydsl-%E2%80%90-Querydsl-%EC%A0%95%EB%A6%AC)
+
+## 4. Architecture & System Design (아키텍처 & 시스템 설계)
+
+### 📖 MicroService Architecture🥈
+
+> ✏️ 대규모 확장성에 유연하게 대응하는 MSA 구조의 통신 패턴, API 게이트웨이, 분산 트랜잭션 처리(SAGA 등) 및 이벤트 기반 아키텍처(EDA) 설계 패턴을 탐구합니다.
+
+* [MicroService Architecture - DeComposition Patterns](https://github.com/Code-Laboratory/Backend-PlayGround/wiki/MicroService-Design-Pattern-%E2%80%90-DeComposition-Patterns)
+* [MicroService Architecture - Service Communications Patterns](https://github.com/Code-Laboratory/Backend-PlayGround/wiki/MicroService-Design-Pattern-%E2%80%90-Service-Communications-Patterns)
+* [MicroService Architecture - API Gateway Patterns](https://github.com/woojin-playground/Backend-PlayGround/wiki/MicroService-Architecture-%E2%80%90-API-Gateway-Patterns)
+* [MicroService Architecture - Asynchronous Communications Patterns](https://github.com/woojin-playground/Backend-PlayGround/wiki/MicroService-Architecture-%E2%80%90-Asynchronous-Communications-Patterns)
+* [MicroService Architecture - Data Management Patterns](https://github.com/woojin-playground/Backend-PlayGround/wiki/MicroService-Architecture-%E2%80%90-Data-Management-Patterns)
+* [MicroService Architecture - CQRS Patterns](https://github.com/woojin-playground/Backend-PlayGround/wiki/MicroService-Architecture-%E2%80%90-CQRS-Patterns)
+* [MicroService Architecture - Distributed Transactions](https://github.com/woojin-playground/Backend-PlayGround/wiki/MicroService-Architecture-%E2%80%90-Distributed-Transactions)
+* [MicroService Architecture - Event-Driven Architecture]
+* [MicroService Architecture - Resilience & Observability and Monitoring]
+* [MicroService Architecture - Security Patterns]
+* [MicroService Architecture - Testing Strategies]
+* [MicroService Architecture - Scalability & Caching Patterns]
+* [MicroService Architecture - Deployment Patterns]
+* [MicroService Architecture - Serverless Architecture]
+* [MicroService Architecture - GraphQL]
+* [MicroService Architecture - Evolution of Distributed Systems and Their Drawbacks]
+* [MicroService Architecture - Protocol Buffers]
+* [MicroService Architecture - gRPC Communication Patterns]
+* [MicroService Architecture - gRPC Optimization Strategies and Implementation]
+
+### 📖 가상 면접 사례로 배우는 대규모 시스템 설계 기초🥈
+
+> ✏️ 대규모 트래픽 처리, 캐싱, 데이터 파티셔닝 등 시스템 확장을 위한 근본적인 고민과 아키텍처 설계 역량을 배양합니다.
+
+### 📖 Clean Code🥈
+
+> ✏️ 요구사항이 변경되어도 유연하게 대처할 수 있는, 읽기 좋고 유지보수하기 쉬운 클린 코드 작성 철학을 정리합니다.
+
+### 📖 주니어 백엔드 개발자가 반드시 알아야 할 실무 지식🥈
+
+> ✏️ 성능 튜닝, IO 병목 해결, 동시성 제어 및 외부 연동 등 주니어 개발자가 필연적으로 마주하는 실전 문제 해결 지식을 정리합니다.
+
+* [느려진 서비스, 어디부터 봐야 할까](https://github.com/dnwls16071/Backend_Summary/wiki/%EB%8A%90%EB%A0%A4%EC%A7%84-%EC%84%9C%EB%B9%84%EC%8A%A4,-%EC%96%B4%EB%94%94%EB%B6%80%ED%84%B0-%EB%B4%90%EC%95%BC-%ED%95%A0%EA%B9%8C)
+* [성능을 좌우하는 DB 설계와 쿼리](https://github.com/dnwls16071/Backend_Summary/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-%EC%84%B1%EB%8A%A5%EC%9D%84-%EC%A2%8C%EC%9A%B0%ED%95%98%EB%8A%94-DB-%EC%84%A4%EA%B3%84%EC%99%80-%EC%BF%BC%EB%A6%AC)
+* [외부 연동이 문제일 때 살펴봐야 할 것들](https://github.com/dnwls16071/Backend_Summary/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-%EC%99%B8%EB%B6%80-%EC%97%B0%EB%8F%99%EC%9D%B4-%EB%AC%B8%EC%A0%9C%EC%9D%BC-%EB%95%8C-%EC%82%B4%ED%8E%B4%EB%B4%90%EC%95%BC-%ED%95%A0-%EA%B2%83%EB%93%A4)
+* [비동기 연동, 언제 어떻게 써야 할까](https://github.com/dnwls16071/Backend_Summary/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%97%B0%EB%8F%99,-%EC%96%B8%EC%A0%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%8D%A8%EC%95%BC-%ED%95%A0%EA%B9%8C)
+* [동시성, 데이터가 꼬이기 전에 잡아야 한다](https://github.com/dnwls16071/Backend_Summary/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-%EB%8F%99%EC%8B%9C%EC%84%B1,-%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B0%80-%EA%BC%AC%EC%9D%B4%EA%B8%B0-%EC%A0%84%EC%97%90-%EC%9E%A1%EC%95%84%EC%95%BC-%ED%95%9C%EB%8B%A4)
+* [IO 병목, 어떻게 해결하지](https://github.com/dnwls16071/Backend_Summary/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-IO-%EB%B3%91%EB%AA%A9,-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EA%B2%B0%ED%95%98%EC%A7%80)
+* [실무에서 꼭 필요한 보안 지식](https://github.com/dnwls16071/Backend_Summary/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-%EC%8B%A4%EB%AC%B4%EC%97%90%EC%84%9C-%EA%BC%AD-%ED%95%84%EC%9A%94%ED%95%9C-%EB%B3%B4%EC%95%88-%EC%A7%80%EC%8B%9D)
+* [모르면 답답해지는 네트워크 기초](https://github.com/Code-Laboratory/Backend-PlayGround/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-%EB%AA%A8%EB%A5%B4%EB%A9%B4-%EB%8B%B5%EB%8B%B5%ED%95%B4%EC%A7%80%EB%8A%94-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B8%B0%EC%B4%88)
+* [자주 쓰는 서버 구조와 설계 패턴](https://github.com/Code-Laboratory/Backend-PlayGround/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-%EC%9E%90%EC%A3%BC-%EC%93%B0%EB%8A%94-%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%84%A4%EA%B3%84-%ED%8C%A8%ED%84%B4)
+
+## 5. Data Streaming & Messaging (메시징 & 스트리밍)
+
+### 📖 Kafka🥇
+
+> ✏️ 대용량 데이터 스트림을 안정적으로 처리하는 분산 메시지 브로커, Apache Kafka의 브로커 메커니즘, 프로듀서/컨슈머 통신, 그리고 KSQLDB 활용법을 정리합니다.
+
+* [Apache Kafka - Kafka Topic/Producer/Consumer](https://github.com/dnwls16071/Backend_Summary/wiki/Apache-Kafka-%E2%80%90-Kafka-Topic-Producer-Consumer)
+* [Apache Kafka - Producer Mechanism](https://github.com/dnwls16071/Backend_Summary/wiki/Apache-Kafka-%E2%80%90-Java-%EA%B8%B0%EB%B0%98-Producer-%EA%B5%AC%ED%98%84-%EB%B0%8F-Producer-%EB%82%B4%EB%B6%80-%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98-%EC%9D%B4%ED%95%B4)
+* [Apache Kafka - Consumer Mechanism](https://github.com/dnwls16071/Backend_Summary/wiki/Apache-Kafka-%E2%80%90-Java-%EA%B8%B0%EB%B0%98-Consumer-%EA%B5%AC%ED%98%84-%EB%B0%8F-Consumer-%EB%82%B4%EB%B6%80-%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98-%EC%9D%B4%ED%95%B4)
+* [Apache Kafka - Multi Node Kafka Cluster](https://github.com/dnwls16071/Backend_Summary/wiki/Apache-Kafka-%E2%80%90-%EB%A9%80%ED%8B%B0-%EB%85%B8%EB%93%9C-%EC%B9%B4%ED%94%84%EC%B9%B4-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0)
+* [Apache Kafka - Producer & Consumer Serialization/DeSerialization](https://github.com/dnwls16071/Backend_Summary/wiki/Apache-Kafka-%E2%80%90-Producer-Consumer%EC%9D%98-Custom-%EA%B0%9D%EC%B2%B4-%EC%A7%81%EB%A0%AC%ED%99%94-%EC%97%AD%EC%A7%81%EB%A0%AC%ED%99%94)
+* [Apache Kafka - Topic Segment Management](https://github.com/dnwls16071/Backend_Summary/wiki/Apache-Kafka-%E2%80%90-Topic%EC%9D%98-Segment-%EA%B4%80%EB%A6%AC)
+* [Apache Kafka - KSQLDB Stream](https://github.com/dnwls16071/Backend_Summary/wiki/Apache-Kafka-%E2%80%90-KSQLDB-Stream)
+* [Apache Kafka - KSQLDB Table](https://github.com/dnwls16071/Backend_Summary/wiki/Apache-Kafka-%E2%80%90-KSQLDB-Table)
+* [Apache Kafka - KSQLDB Application](https://github.com/dnwls16071/Backend_Summary/wiki/Apache-Kafka-%E2%80%90-KSQLDB-%ED%99%9C%EC%9A%A9)
+* [Apache Kafka - Group by & Mview](https://github.com/dnwls16071/Backend_Summary/wiki/Apache-Kafka-%E2%80%90-Group-by%EC%99%80-Mview)
+* [Apache Kafka - Join]
+* [Apache Kafka - Time & Windows]
+* [Apache Kafka - Connecting KSQLDB to Kafka Connect]
+* [Apache Kafka - Kafka Connect]
+* [Apache Kafka - JDBC Source Connector]
+* [Apache Kafka - JDBC Sink Connector]
+* [Apache Kafka - Debezium MySQL CDC Source Connector]
+* [Apache Kafka - Schema Registry]
+* [Apache Kafka - Differences Between RocksDB and In-Memory KeyValueStore in GlobalKTable](https://github.com/dnwls16071/Backend/wiki/Apache-Kafka-%E2%80%90-RocksDB-vs-InMemoryKeyValueStore)
+* [Apache Kafka - Kafka Streams](https://github.com/dnwls16071/Backend_Summary/wiki/Apache-Kafka-%E2%80%90-%EC%B9%B4%ED%94%84%EC%B9%B4-%EC%8A%A4%ED%8A%B8%EB%A6%BC%EC%A6%88)
+* [Apache Kafka - Kafka Connect]
+* [Apache Kafka - Idempotent Producers and Transactional Producers & Consumers]
+* [Apache Kafka - CDC(Change Data Capture)]
+
+### 📖 Apache Flink🥈
+
+> ✏️ 지연 없는 실시간 스트림 처리를 위한 분산 데이터 처리 엔진, Apache Flink의 아키텍처, 윈도우 처리 전략 및 상태 관리(State Management) 기법을 알아봅니다.
+
+* [Apache Flink - Apache Flink Architecture]
+* [Apache Flink - Stream Processing]
+* [Apache Flink - Data Stream API & Window]
+* [Apache Flink - State Management]
+
+## 6. Infrastructure, DevOps & Network (인프라, 데브옵스 & 네트워크)
+
+### 📖 HTTP(Hypertext Transfer Protocol)🥇
+
+> ✏️ 웹 아키텍처의 근간인 HTTP 프로토콜의 작동 원리, 헤더 구조, 상태 코드, 그리고 RESTful API 설계를 위한 웹 캐시 메커니즘을 상세히 다룹니다.
+
+* [HTTP - Internet Network](https://github.com/dnwls16071/Backend_Study_TIL/wiki/HTTP-%E2%80%90-%EC%9D%B8%ED%84%B0%EB%84%B7-
+%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)
+* [HTTP - URI & Browser Request Flow](https://github.com/dnwls16071/Backend_Study_TIL/wiki/HTTP-%E2%80%90-URI%EC%99%80-%EC%9B%B9-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EC%9A%94%EC%B2%AD-%ED%9D%90%EB%A6%84)
+* [HTTP - HTTP Basic](https://github.com/dnwls16071/Backend_Study_TIL/wiki/HTTP-%E2%80%90-HTTP-%EA%B8%B0%EB%B3%B8)
+* [HTTP - HTTP Method](https://github.com/dnwls16071/Backend_Study_TIL/wiki/HTTP-%E2%80%90-HTTP-%EB%A9%94%EC%84%9C%EB%93%9C)
+* [HTTP - HTTP Method Application](https://github.com/dnwls16071/Backend_Study_TIL/wiki/HTTP-%E2%80%90-HTTP-%EB%A9%94%EC%84%9C%EB%93%9C-%ED%99%9C%EC%9A%A9)
+* [HTTP - HTTP Status Code](https://github.com/dnwls16071/Backend_Study_TIL/wiki/HTTP-%E2%80%90-HTTP-%EC%83%81%ED%83%9C%EC%BD%94%EB%93%9C)
+* [HTTP ‐ HTTP Default Header](https://github.com/dnwls16071/Backend_Study_TIL/wiki/HTTP-%E2%80%90-HTTP-%EC%9D%BC%EB%B0%98-%ED%97%A4%EB%8D%94)
+* [HTTP - HTTP Cache & Condition Request](https://github.com/dnwls16071/Backend_Study_TIL/wiki/HTTP-%E2%80%90-%EC%BA%90%EC%8B%9C%EC%99%80-%EC%A1%B0%EA%B1%B4%EB%B6%80-%EC%9A%94%EC%B2%AD)
+
+### 📖 AWS🥇
+
+> ✏️ 현대적 서버 인프라 구축을 위한 AWS 클라우드의 주요 서비스(S3, Cognito 등)와 인프라를 코드로 관리하는 IaC(AWS CDK) 활용법을 정리합니다.
+
+* [AWS - AWS CDK(Cloud Development Kit)](https://github.com/dnwls16071/Backend_Study_TIL/wiki/AWS-%E2%80%90-AWS-CDK(Cloud-Development-Kit))
+* [AWS - Signed URL](https://github.com/dnwls16071/Backend_Study_TIL/wiki/AWS-%E2%80%90-Signed-URL)
+* [AWS - PreSigned URL](https://github.com/dnwls16071/Backend_Study_TIL/wiki/AWS-%E2%80%90-PreSigned-URL)
+* [AWS - Cognito](https://github.com/dnwls16071/Backend_Summary/wiki/AWS-%E2%80%90-Cognito)
+* [AWS - Signed URL Logic](https://github.com/dnwls16071/Backend_Summary/wiki/AWS-%E2%80%90-Signed-URL-%EC%84%9C%EB%AA%85-%EB%A1%9C%EC%A7%81-%EC%A0%95%EB%A6%AC)
+
+### 📖 Docker🥈
+
+> ✏️ 애플리케이션의 일관된 배포 환경을 보장하는 컨테이너 기술, Docker의 라이프사이클 관리, 네트워크/볼륨 설정 및 Docker Compose 기반 컨테이너 오케스트레이션을 학습합니다.
+
+* [Docker - Docker](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Docker-%E2%80%90-Docker-%EA%B8%B0%EB%B3%B8)
+* [Docker ‐ Docker CLI](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Docker-%E2%80%90-Docker-CLI)
+* [Docker ‐ Docker Volume](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Docker-%E2%80%90-Docker-Volume%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%B4-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9C%A0%EC%8B%A4-%EB%B0%A9%EC%A7%80%ED%95%98%EA%B8%B0)
+* [Docker - Dockerfile Image](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Docker-%E2%80%90-Dockerfile-%ED%99%9C%EC%9A%A9%ED%95%B4-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%A7%81%EC%A0%91-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+* [Docker ‐ Docker Compose Container Management](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Docker-%E2%80%90-Docker-Compose%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%B4-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0)
+* [Docker ‐ Deploy(feat. AWS ECR)](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Docker-%E2%80%90-AWS-EC2%EC%97%90%EC%84%9C-Docker%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%B4-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0)
+* [Docker - Cloud Native Technology](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Docker-%E2%80%90-Cloud-Native-Technology)
+* [Docker - Docker Essentials(1)](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Docker-%E2%80%90-Docker-Essentials(1))
+* [Docker - Docker Essentials(2)](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Docker-%E2%80%90-Docker-Essentials(2))
+* [Docker - Docker Network and Storage](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Docker-%E2%80%90-Docker-Network-and-Storage)
+* [Docker - Building and Managing Containerized Application](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Docker-%E2%80%90-Building-and-Managing-Containerized-Application)
+* [Docker - Container Orchestration](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Docker-%E2%80%90-Container-Orchestration)
+* [Docker - Docker Security](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Docker-%E2%80%90-Docker-Security)
+* [Docker - Logging and Monitoring](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Docker-%E2%80%90-Logging-and-Monitoring)
+* [Docker - Advanced Docker Usage](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Docker-%E2%80%90-Advanced-Docker-Usage)
+* [Docker - Container-to-Container Communication](https://github.com/dnwls16071/Backend_Summary/wiki/Docker-%E2%80%90-%EA%B5%90%EC%B0%A8-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%ED%86%B5%EC%8B%A0)
+
+### 📖 Kubernetes🥇
+
+> ✏️ 대규모 컨테이너 서비스의 표준 운영 플랫폼, Kubernetes의 파드 스케줄링, 인그레스 설정, 자원 관리 노하우 및 무중단 배포(ArgoCD) 파이프라인을 구축합니다.
+
+* [Kubernetes - Probe]
+* [Kubernetes - ConfigMap & Secret]
+* [Kubernetes - PV/PVC & Deployment & Service & HPA]
+* [Kubernetes - Blue/Green Deployment]
+* [Kubernetes - Helm & Kustomize]
+* [Kubernetes - ArgoCD]
+* [Kubernetes - Pod]
+* [Kubernetes - Ingress & Nginx Application]
+* [Kubernetes - Node Scheduling]
+* [Kubernetes - Monitoring]
+* [Kubernetes - Logging]
+
+### 📖 CI/CD(Continuous Integration/Continuous Deploy)🥈
+
+> ✏️ 안정적이고 빠른 서비스 배포 파이프라인 자동화를 위한 Github Actions와 Jenkins 기반의 지속적 통합/지속적 배포 환경 구축 방법을 정리합니다.
+
+* [Github Actions - Github Actions](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Github-Actions-%E2%80%90-Github-Actions-%EA%B8%B0%EB%B3%B8-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC)
+* [Jenkins - Jenkins + IaC]
+* [Jenkins - Advanced Jenkins Pipeline]
+* [Jenkins - Advanced Jenkins SonarQube & Multi nodes]
+* [Jenkins - Jenkins Appendix]
+
+### 📖 Nginx🥉
+
+> ✏️ 고성능 웹 서버이자 리버스 프록시, 로드 밸런서로 활약하는 Nginx의 최적화 설정, HTTPS 통신 관리 및 트래픽 분산 처리 기법을 다룹니다.
+
+* [Nginx ‐ Nginx Introduction](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Nginx-%E2%80%90-Nginx-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%8B%A4%ED%96%89-%EB%B0%A9%EB%B2%95-%EC%A0%95%EB%A6%AC)
+* [Nginx ‐ Nginx Supplementary Summary](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Nginx-%E2%80%90-Nginx-%EB%B3%B4%EC%B6%A9-%EC%A0%95%EB%A6%AC)
+* [Nginx ‐ Deploying Domain with Nginx](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Nginx-%E2%80%90-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%A0%81%EC%9A%A9-%EB%B0%A9%EB%B2%95-%EC%A0%95%EB%A6%AC)
+* [Nginx ‐ Implementing HTTPS with Nginx](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Nginx-%E2%80%90-Nginx%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-HTTPS-%EC%A0%81%EC%9A%A9%EC%8B%9C%ED%82%A4%EA%B8%B0)
+* [Nginx ‐ Backend Deployment via Nginx Reverse Proxy](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Nginx-%E2%80%90-%EB%A6%AC%EB%B2%84%EC%8A%A4-%ED%94%84%EB%A1%9D%EC%8B%9C(Reverse-Proxy)%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%84%9C%EB%B2%84-%EB%B0%B0%ED%8F%AC)
+* [Nginx ‐ Load Balancing with Nginx](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Nginx-%E2%80%90-Nginx%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%A1%9C%EB%93%9C-%EB%B0%B8%EB%9F%B0%EC%84%9C)
+* [Nginx - Advanced Concept]
+* [Nginx - Advanced Reverse Proxy]
+
+### 📖 Monitoring🥈
+
+> ✏️ 서비스의 안정성 확보와 장애 대응을 위해 로깅(ELK), 메트릭 수집 및 시각화(Prometheus & Grafana) 등 관측 가능성(Observability) 인프라 구축을 도모합니다.
+
+* [Monitoring - Log Concept]
+* [Monitoring - Log Level & Filter]
+* [Monitoring - Logback]
+* [Monitoring - Log Collection with ELK Stack]
+* [Monitoring - Log Monitoring with Kibana]
+* [Monitoring - Building a Monitoring System with Spring Boot Actuator]
+* [Monitoring - Server Monitoring with Prometheus and Grafana with Discord Alerts]
+
+## 7. Test & Projects (테스트 & 사이드 프로젝트)
+
+### 📖 Test🥈
+
+> ✏️ 견고한 소프트웨어를 위한 단위/통합 테스트 기법(JUnit, Mockito, TestContainers)부터 시스템 병목을 찾는 부하 테스트(JMeter) 노하우까지 다룹니다.
+
+* [Test - Load Testing Fundamentals](https://github.com/Code-Laboratory/Backend-PlayGround/wiki/Test-%E2%80%90-Stress-Test(%EB%B6%80%ED%95%98-%ED%85%8C%EC%8A%A4%ED%8A%B8))
+* [Test - Diagnosing Bottlenecks via Load Testing]
+* [Test - Performance Tuning: Resolving Bottlenecks]
+* [Test - JUnit5](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Test-%E2%80%90-JUnit5)
+* [Test - Mockito](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Test-%E2%80%90-Mockito)
+* [Test - TestContainers](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Test-%E2%80%90-TestContainer)
+* [Test - JMeter](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Test-%E2%80%90-JMeter)
+* [Test - Chaos Monkey](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Test-%E2%80%90-Chaos-Monkey)
+* [Test - ArchUnit]
+* [Test - Unit Testing Essentials]
+* [Test - TDD]
+* [Test - Testing with Spring & JPA]
+* [Test - A Guide to Effective Mocking](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Test-%E2%80%90-Mock%EC%9D%84-%EB%A7%88%EC%A3%BC%ED%95%98%EB%8A%94-%EC%9E%90%EC%84%B8)
+* [Test - Appendix: Tips for Better Testing](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Test-%E2%80%90-%EB%8D%94-%EB%82%98%EC%9D%80-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%9C%84%ED%95%9C-Appendix)
+
+### 📖 Side Project🥉
+
+> ✏️ 학습한 깊이 있는 기술(동시성 제어, 분산 트랜잭션, 성능 튜닝 등)을 실제 비즈니스 로직에 적용해 보고 트러블슈팅하며 얻은 인사이트를 기록합니다.

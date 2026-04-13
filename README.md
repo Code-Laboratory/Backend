@@ -1,8 +1,6 @@
-## Programming Languages (프로그래밍 언어)
+## 📚 Programming Languages (프로그래밍 언어)
 
 ### 📖 Java🥇
-
-> ✏️ 굳건한 백엔드 생태계의 핵심 언어인 Java의 기본 문법부터 메모리 구조(GC), 동시성 제어, 함수형 프로그래밍(Stream/Lambda) 등 깊이 있는 동작 원리와 모던 피처를 탐구합니다.
 
 * [Java - Class](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Java-%E2%80%90-Class)
 * [Java - Java Memory](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Java-%E2%80%90-%EC%9E%90%EB%B0%94-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B5%AC%EC%A1%B0)
@@ -61,8 +59,6 @@
 * [Java - JVM Internal Structure and Memory Areas]
 
 ### 📖 Effective Java 3/E🥈
-
-> ✏️ 프로페셔널 Java 개발자의 필수 지침서, Effective Java를 통해 유지보수하기 좋고 안전한 객체 지향 코드 설계 원칙을 정리합니다.
 
 * [Java ‐ 생성자 대신 정적 팩토리 메서드를 고려하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%83%9D%EC%84%B1%EC%9E%90-%EB%8C%80%EC%8B%A0-%EC%A0%95%EC%A0%81-%ED%8C%A9%ED%86%A0%EB%A6%AC-%EB%A9%94%EC%84%9C%EB%93%9C%EB%A5%BC-%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC%5BEffective-Java-Item-1%5D)
 * [Java - 생성자에 매개변수가 많다면 빌더를 고려하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%83%9D%EC%84%B1%EC%9E%90%EC%97%90-%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98%EA%B0%80-%EB%A7%8E%EB%8B%A4%EB%A9%B4-%EB%B9%8C%EB%8D%94%EB%A5%BC-%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC%5BEffective-Java-Item-2%5D)
@@ -139,8 +135,6 @@
 
 ### 📖 Kotlin🥇
 
-> ✏️ 간결하고 안전한 코드를 지향하는 Kotlin의 핵심 문법부터 함수형 프로그래밍, DSL, 타입 시스템, 그리고 실무적 확장 활용법을 다룹니다.
-
 * [Kotlin - Variables, Types, and Operators in Kotlin](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-Kotlin%EC%97%90%EC%84%9C-%EB%B3%80%EC%88%98%EC%99%80-%ED%83%80%EC%9E%85,-%EC%97%B0%EC%82%B0%EC%9E%90%EB%A5%BC-%EB%8B%A4%EB%A3%A8%EB%8A%94-%EB%B0%A9%EB%B2%95)
 * [Kotlin - Control Flow in Kotlin](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-Kotlin%EC%97%90%EC%84%9C-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%A0%9C%EC%96%B4%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
 * [Kotlin - Object-Oriented Programming in Kotlin](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-Kotlin%EC%97%90%EC%84%9C%EC%9D%98-OOP)
@@ -154,8 +148,6 @@
 * [Kotlin - Miscellaneous Topics in Kotlin](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-%EA%B8%B0%ED%83%80)
 
 ### 📖 Kotlin Academy - 핵심편🥈
-
-> ✏️ Kotlin Academy 시리즈를 통해 코틀린의 핵심 기능과 실무 적용 방법론을 깊이 있게 정리합니다.
 
 * [Kotlin - 변수](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-%EB%B3%80%EC%88%98%5BEffective-Kotlin-Item-3%5D)
 * [Kotlin - 기본 타입, 기본 타입의 리터럴과 연산](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-%EA%B8%B0%EB%B3%B8-%ED%83%80%EC%9E%85,-%EA%B8%B0%EB%B3%B8-%ED%83%80%EC%9E%85%EC%9D%98-%EB%A6%AC%ED%84%B0%EB%9F%B4%EA%B3%BC-%EC%97%B0%EC%82%B0%5BEffective-Kotlin-Item-4%5D)
@@ -179,8 +171,6 @@
 
 ### 📖 Kotlin Academy - Effective Kotlin🥈
 
-> ✏️ 가독성 높고 유지보수하기 쉬운 Kotlin 코드 작성을 위한 실전 최적화 원칙들을 정리합니다.
-
 * [Kotlin - 가변성을 제한하라](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-%EA%B0%80%EB%B3%80%EC%84%B1%EC%9D%84-%EC%A0%9C%ED%95%9C%ED%95%98%EB%9D%BC%5BEffective-Kotlin-Item-1%5D)
 * [Kotlin - 임계 영역을 제거하라](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-%EC%9E%84%EA%B3%84-%EC%98%81%EC%97%AD%EC%9D%84-%EC%A0%9C%EA%B1%B0%ED%95%98%EB%9D%BC%5BEffective-Kotlin-Item-2%5D)
 * [Kotlin ‐ 가능한 한 빨리 플랫폼 타입을 제거하라](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-%EA%B0%80%EB%8A%A5%ED%95%9C-%ED%95%9C-%EB%B9%A8%EB%A6%AC-%ED%94%8C%EB%9E%AB%ED%8F%BC-%ED%83%80%EC%9E%85%EC%9D%84-%EC%A0%9C%EA%B1%B0%ED%95%98%EB%9D%BC%5BEffective-Kotlin-Item-3%5D)
@@ -199,17 +189,13 @@
 
 ### 📖 Coroutine🥈
 
-> ✏️ 비동기/논블로킹 프로그래밍을 우아하게 처리하는 Kotlin Coroutine의 디스패처, 동작 원리 및 동시성 제어 메커니즘을 다룹니다.
-
 * [Kotlin - Coroutines Introduction](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-Coroutines-%EA%B8%B0%EC%B4%88)
 * [Kotlin - Coroutines Component & Process Mechanism](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-Coroutines-%EA%B5%AC%EC%84%B1-%EC%9A%94%EC%86%8C%EC%99%80-%EB%8F%99%EC%9E%91-%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98)
 * [Kotlin ‐ Dispatchers](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-Dispatchers)
 
-## 2. Frameworks & Libraries (프레임워크 & 라이브러리)
+## 📚 Frameworks & Libraries (프레임워크 & 라이브러리)
 
 ### 📖 Spring🥇
-
-> ✏️ 엔터프라이즈 애플리케이션의 표준, Spring 프레임워크의 DI/IoC, AOP 철학부터 MVC 아키텍처, 트랜잭션 관리 체계까지 백엔드 기반 기술을 깊이 있게 파헤칩니다.
 
 * [Spring - OOP & Spring](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%EC%84%A4%EA%B3%84%EC%99%80-%EC%8A%A4%ED%94%84%EB%A7%81)
 * [Spring - Spring Container & Spring Bean](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EC%99%80-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B9%88)
@@ -254,8 +240,6 @@
 
 ### 📖 Spring Security🥇
 
-> ✏️ 안전한 서비스 구축을 위한 핵심 프레임워크, Spring Security의 인증 및 인가 아키텍처, 세션/토큰 관리 메커니즘, 그리고 OAuth 2.0 기반의 확장된 보안 인프라를 다룹니다.
-
 * [Spring Security - Initialization](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-%EC%B4%88%EA%B8%B0%ED%99%94-%EC%84%A4%EC%A0%95)
 * [Spring Security - Authentication Process](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-%EC%9D%B8%EC%A6%9D-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EC%9D%B4%ED%95%B4)
 * [Spring Security - Authentication Architecture](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-%EC%9D%B8%EC%A6%9D-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%9D%B4%ED%95%B4)
@@ -288,8 +272,6 @@
 
 ### 📖 Spring Batch🥈
 
-> ✏️ 대용량 데이터의 안정적인 일괄 처리를 위한 Spring Batch의 청크 지향 프로세싱, 스케줄링, 스레드 병렬 처리 및 장애 대응 전략을 정리합니다.
-
 * [Spring Batch - Introduction](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Batch-%E2%80%90-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B0%B0%EC%B9%98-%EC%86%8C%EA%B0%9C)
 * [Spring Batch - Batch Concept](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Batch-%E2%80%90-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B0%B0%EC%B9%98-%EC%8B%9C%EC%9E%91)
 * [Spring Batch - Batch Domain](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Batch-%E2%80%90-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B0%B0%EC%B9%98-%EB%8F%84%EB%A9%94%EC%9D%B8)
@@ -310,8 +292,6 @@
 * [Spring Batch - Partitioning]
 
 ### 📖 Reactive Programming🥈
-
-> ✏️ 대규모 트래픽 처리를 위한 비동기 이벤트 기반 프로그래밍 패러다임, Project Reactor 및 Spring WebFlux의 스트림 처리와 백프레셔(Backpressure) 메커니즘을 다룹니다.
 
 * [Reactive Programming - Reactive System & Reactive Programming]
 * [Reactive Programming - Reactive Streams]
@@ -339,11 +319,9 @@
 * [Reactive Programming - Practical Patterns in WebFlux]
 * [Reactive Programming - WebFlux Patterns with Spring Boot]
 
-## 3. Database & ORM (데이터베이스 & ORM)
+## 📚 Database & ORM (데이터베이스 & ORM)
 
 ### 📖 Database🥇
-
-> ✏️ 서비스의 근간인 데이터 관리를 위한 RDBMS의 핵심 개념, 트랜잭션, 정규화 과정 및 실무적인 논리/물리 데이터 모델링 기법을 폭넓게 학습합니다.
 
 * [Database - Database Introduction](https://github.com/dnwls16071/Backend_Summary/wiki/Database-%E2%80%90-Database-%EA%B8%B0%EB%B3%B8)
 * [Database - Search & Sort](https://github.com/dnwls16071/Backend_Summary/wiki/Database-%E2%80%90-%EC%A1%B0%ED%9A%8C%EC%99%80-%EC%A0%95%EB%A0%AC)
@@ -374,35 +352,27 @@
 
 ### 📖 MySQL🥈
 
-> ✏️ 세계에서 가장 대중적인 RDBMS, MySQL의 인덱스 튜닝, 락(Lock)을 통한 동시성 제어 및 커넥션 풀 관리 등 실전 성능 최적화 사례를 다룹니다.
-
 * [MySQL ‐ Solving Concurrency Problems using Database-Level Locking](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-Boot-%E2%80%90-%EB%8F%99%EC%8B%9C%EC%84%B1-%EC%9D%B4%EC%8A%88%EB%A5%BC-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EB%A1%9C-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0)
 * [MySQL - Checking DB Metrics with SQL Queries](https://github.com/woojin-playground/Backend-PlayGround/wiki/MySQL-%E2%80%90-Checking-DB-Metrics-with-SQL-Queries)
 * [MySQL - Data Modeling for Practical Service Development](https://github.com/woojin-playground/Backend-PlayGround/wiki/MySQL-%E2%80%90-Data-Modeling-for-Practical-Service-Development)
 * [MySQL - Basic CRUD in MySQL](https://github.com/woojin-playground/Backend-PlayGround/wiki/MySQL-%E2%80%90-Basic-CRUD-in-MySQL)
-* [⚠️MySQL - Exploring Inside MySQL](https://github.com/woojin-playground/Backend-PlayGround/wiki/MySQL-%E2%80%90-Exploring-Inside-MySQL)
 * [MySQL - MySQL Horizontal Scaling](https://github.com/woojin-playground/Backend-PlayGround/wiki/MySQL-%E2%80%90-MySQL-Horizontal-Scaling)
 * [MySQL - MySQL Fundamentals](https://github.com/woojin-playground/Backend-PlayGround/wiki/MySQL-%E2%80%90-MySQL-Fundamentals)
 * [MySQL - Why You Should Use MySQL: JOIN](https://github.com/woojin-playground/Backend-PlayGround/wiki/MySQL-%E2%80%90-Why-You-Should-Use-MySQL:-JOIN)
-* [MySQL - Must-Know SQL Anti-Patterns]
-* [MySQL - Learning Data Modeling Through Practical Examples]
-* [MySQL - Foreign Key & Strategic Patterns]
-* [MySQL - Advanced Topics in MySQL]
-* [MySQL - Multi Column Index]
-* [MySQL - Covering Index]
-* [MySQL - ORDER BY]
-* [MySQL - INSERT]
-* [MySQL - AUTO_INCREMENT_LOCK]
-* [MySQL - Index Dive Using In Query]
-* [MySQL - MySQL LockType]
-* [MySQL - DeadLock Case]
-* [MySQL - NoOffset For Query Tuning]
-* [MySQL - Skip Locked For Session]
-* [MySQL - Connection Pool Management(feat. HikariCP)]
+* [MySQL - Must-Know SQL Anti-Patterns](https://github.com/woojin-playground/Backend-PlayGround/wiki/MySQL-%E2%80%90-Must%E2%80%90Know-SQL-Anti%E2%80%90Patterns)
+* [MySQL - Learning Data Modeling Through Practical Examples](https://github.com/woojin-playground/Backend-PlayGround/wiki/MySQL-%E2%80%90-Learning-Data-Modeling-Through-Practical-Examples)
+* [MySQL - Foreign Key & Strategic Patterns](https://github.com/woojin-playground/Backend-PlayGround/wiki/MySQL-%E2%80%90-Foreign-Key-&-Strategic-Patterns)
+* [MySQL - Advanced Topics in MySQL](https://github.com/woojin-playground/Backend-PlayGround/wiki/MySQL-%E2%80%90-Advanced-Topics-in-MySQL)
+* [MySQL - Multi Column Index](https://github.com/woojin-playground/Backend-PlayGround/wiki/MySQL-%E2%80%90-Multi-Column-Index)
+* [MySQL - Covering Index](https://github.com/woojin-playground/Backend-PlayGround/wiki/MySQL-%E2%80%90-Covering-Index)
+* [MySQL - ORDER BY](https://github.com/woojin-playground/Backend-PlayGround/wiki/MySQL-%E2%80%90-ORDER-BY)
+* [MySQL - INSERT](https://github.com/woojin-playground/Backend-PlayGround/wiki/MySQL-%E2%80%90-INSERT)
+* [MySQL - AUTO_INCREMENT_LOCK](https://github.com/woojin-playground/Backend-PlayGround/wiki/MySQL-%E2%80%90-AUTO_INCREMENT_LOCK)
+* [MySQL - MySQL LockType](https://github.com/woojin-playground/Backend-PlayGround/wiki/MySQL-%E2%80%90-MySQL-LockType)
+* [MySQL - DeadLock Case](https://github.com/woojin-playground/Backend-PlayGround/wiki/MySQL-%E2%80%90-DeadLock-Case)
+* [MySQL - NoOffset For Query Tuning](https://github.com/woojin-playground/Backend-PlayGround/wiki/MySQL-%E2%80%90-NoOffset-For-Query-Tuning)
 
 ### 📖 Redis🥈
-
-> ✏️ 초고속 인메모리 스토어 Redis를 활용한 캐싱 전략, 세션 클러스터링, 동시성 이슈 해결(분산 락) 및 데이터 영속성 관리 기법을 정리합니다.
 
 * [Redis ‐ Redis](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Redis-%E2%80%90-Redis-%EA%B8%B0%EB%B3%B8)
 * [Redis ‐ Redis Manual](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Redis-%E2%80%90-Redis-%EC%82%AC%EC%9A%A9%EB%B2%95)
@@ -431,8 +401,6 @@
 
 ### 📖 JPA(Java Persistence API)🥈
 
-> ✏️ 객체 지향과 관계형 DB 간의 패러다임 불일치를 해소하는 JPA의 영속성 컨텍스트, 연관관계 매핑, N+1 문제 해결 및 성능 최적화 노하우를 다룹니다.
-
 * [JPA - Java Persistence API](https://github.com/dnwls16071/Backend_Study_TIL/wiki/JPA-%E2%80%90-JPA(Java-Persistence-API))
 * [JPA - Entity Mapping & PK Strategy](https://github.com/dnwls16071/Backend_Study_TIL/wiki/JPA-%E2%80%90-%EC%97%94%ED%8B%B0%ED%8B%B0-%EB%A7%A4%ED%95%91-%EB%B0%8F-%EA%B8%B0%EB%B3%B8%ED%82%A4-%EC%83%9D%EC%84%B1-%EC%A0%84%EB%9E%B5-%EC%A0%95%EB%A6%AC)
 * [JPA ‐ JPA Association Mapping](https://github.com/dnwls16071/Backend_Study_TIL/wiki/JPA-%E2%80%90-JPA-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84-%EB%A7%A4%ED%95%91)
@@ -451,15 +419,11 @@
 
 ### 📖 QueryDsl🥉
 
-> ✏️ 컴파일 타임에 타입 안정성을 보장하며, 복잡한 동적 쿼리를 직관적이고 객체 지향적으로 작성하게 해주는 QueryDsl 실무 활용법을 다룹니다.
-
 * [Querydsl - Querydsl](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Querydsl-%E2%80%90-Querydsl-%EC%A0%95%EB%A6%AC)
 
-## 4. Architecture & System Design (아키텍처 & 시스템 설계)
+## 📚 Architecture & System Design (아키텍처 & 시스템 설계)
 
 ### 📖 MicroService Architecture🥈
-
-> ✏️ 대규모 확장성에 유연하게 대응하는 MSA 구조의 통신 패턴, API 게이트웨이, 분산 트랜잭션 처리(SAGA 등) 및 이벤트 기반 아키텍처(EDA) 설계 패턴을 탐구합니다.
 
 * [MicroService Architecture - DeComposition Patterns](https://github.com/Code-Laboratory/Backend-PlayGround/wiki/MicroService-Design-Pattern-%E2%80%90-DeComposition-Patterns)
 * [MicroService Architecture - Service Communications Patterns](https://github.com/Code-Laboratory/Backend-PlayGround/wiki/MicroService-Design-Pattern-%E2%80%90-Service-Communications-Patterns)
@@ -483,15 +447,9 @@
 
 ### 📖 가상 면접 사례로 배우는 대규모 시스템 설계 기초🥈
 
-> ✏️ 대규모 트래픽 처리, 캐싱, 데이터 파티셔닝 등 시스템 확장을 위한 근본적인 고민과 아키텍처 설계 역량을 배양합니다.
-
 ### 📖 Clean Code🥈
 
-> ✏️ 요구사항이 변경되어도 유연하게 대처할 수 있는, 읽기 좋고 유지보수하기 쉬운 클린 코드 작성 철학을 정리합니다.
-
 ### 📖 주니어 백엔드 개발자가 반드시 알아야 할 실무 지식🥈
-
-> ✏️ 성능 튜닝, IO 병목 해결, 동시성 제어 및 외부 연동 등 주니어 개발자가 필연적으로 마주하는 실전 문제 해결 지식을 정리합니다.
 
 * [느려진 서비스, 어디부터 봐야 할까](https://github.com/dnwls16071/Backend_Summary/wiki/%EB%8A%90%EB%A0%A4%EC%A7%84-%EC%84%9C%EB%B9%84%EC%8A%A4,-%EC%96%B4%EB%94%94%EB%B6%80%ED%84%B0-%EB%B4%90%EC%95%BC-%ED%95%A0%EA%B9%8C)
 * [성능을 좌우하는 DB 설계와 쿼리](https://github.com/dnwls16071/Backend_Summary/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-%EC%84%B1%EB%8A%A5%EC%9D%84-%EC%A2%8C%EC%9A%B0%ED%95%98%EB%8A%94-DB-%EC%84%A4%EA%B3%84%EC%99%80-%EC%BF%BC%EB%A6%AC)
@@ -503,11 +461,9 @@
 * [모르면 답답해지는 네트워크 기초](https://github.com/Code-Laboratory/Backend-PlayGround/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-%EB%AA%A8%EB%A5%B4%EB%A9%B4-%EB%8B%B5%EB%8B%B5%ED%95%B4%EC%A7%80%EB%8A%94-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B8%B0%EC%B4%88)
 * [자주 쓰는 서버 구조와 설계 패턴](https://github.com/Code-Laboratory/Backend-PlayGround/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-%EC%9E%90%EC%A3%BC-%EC%93%B0%EB%8A%94-%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%84%A4%EA%B3%84-%ED%8C%A8%ED%84%B4)
 
-## 5. Data Streaming & Messaging (메시징 & 스트리밍)
+## 📚 Data Streaming & Messaging (메시징 & 스트리밍)
 
 ### 📖 Kafka🥇
-
-> ✏️ 대용량 데이터 스트림을 안정적으로 처리하는 분산 메시지 브로커, Apache Kafka의 브로커 메커니즘, 프로듀서/컨슈머 통신, 그리고 KSQLDB 활용법을 정리합니다.
 
 * [Apache Kafka - Kafka Topic/Producer/Consumer](https://github.com/dnwls16071/Backend_Summary/wiki/Apache-Kafka-%E2%80%90-Kafka-Topic-Producer-Consumer)
 * [Apache Kafka - Producer Mechanism](https://github.com/dnwls16071/Backend_Summary/wiki/Apache-Kafka-%E2%80%90-Java-%EA%B8%B0%EB%B0%98-Producer-%EA%B5%AC%ED%98%84-%EB%B0%8F-Producer-%EB%82%B4%EB%B6%80-%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98-%EC%9D%B4%ED%95%B4)
@@ -535,18 +491,14 @@
 
 ### 📖 Apache Flink🥈
 
-> ✏️ 지연 없는 실시간 스트림 처리를 위한 분산 데이터 처리 엔진, Apache Flink의 아키텍처, 윈도우 처리 전략 및 상태 관리(State Management) 기법을 알아봅니다.
-
 * [Apache Flink - Apache Flink Architecture]
 * [Apache Flink - Stream Processing]
 * [Apache Flink - Data Stream API & Window]
 * [Apache Flink - State Management]
 
-## 6. Infrastructure, DevOps & Network (인프라, 데브옵스 & 네트워크)
+## 📚 Infrastructure, DevOps & Network (인프라, 데브옵스 & 네트워크)
 
 ### 📖 HTTP(Hypertext Transfer Protocol)🥇
-
-> ✏️ 웹 아키텍처의 근간인 HTTP 프로토콜의 작동 원리, 헤더 구조, 상태 코드, 그리고 RESTful API 설계를 위한 웹 캐시 메커니즘을 상세히 다룹니다.
 
 * [HTTP - Internet Network](https://github.com/woojin-playground/Backend-PlayGround/wiki/HTTP-%E2%80%90-%EC%9D%B8%ED%84%B0%EB%84%B7-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)
 * [HTTP - URI & Browser Request Flow](https://github.com/dnwls16071/Backend_Study_TIL/wiki/HTTP-%E2%80%90-URI%EC%99%80-%EC%9B%B9-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EC%9A%94%EC%B2%AD-%ED%9D%90%EB%A6%84)
@@ -559,8 +511,6 @@
 
 ### 📖 AWS🥇
 
-> ✏️ 현대적 서버 인프라 구축을 위한 AWS 클라우드의 주요 서비스(S3, Cognito 등)와 인프라를 코드로 관리하는 IaC(AWS CDK) 활용법을 정리합니다.
-
 * [AWS - AWS CDK(Cloud Development Kit)](https://github.com/dnwls16071/Backend_Study_TIL/wiki/AWS-%E2%80%90-AWS-CDK(Cloud-Development-Kit))
 * [AWS - Signed URL](https://github.com/dnwls16071/Backend_Study_TIL/wiki/AWS-%E2%80%90-Signed-URL)
 * [AWS - PreSigned URL](https://github.com/dnwls16071/Backend_Study_TIL/wiki/AWS-%E2%80%90-PreSigned-URL)
@@ -568,8 +518,6 @@
 * [AWS - Signed URL Logic](https://github.com/dnwls16071/Backend_Summary/wiki/AWS-%E2%80%90-Signed-URL-%EC%84%9C%EB%AA%85-%EB%A1%9C%EC%A7%81-%EC%A0%95%EB%A6%AC)
 
 ### 📖 Docker🥈
-
-> ✏️ 애플리케이션의 일관된 배포 환경을 보장하는 컨테이너 기술, Docker의 라이프사이클 관리, 네트워크/볼륨 설정 및 Docker Compose 기반 컨테이너 오케스트레이션을 학습합니다.
 
 * [Docker - Docker](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Docker-%E2%80%90-Docker-%EA%B8%B0%EB%B3%B8)
 * [Docker ‐ Docker CLI](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Docker-%E2%80%90-Docker-CLI)
@@ -590,8 +538,6 @@
 
 ### 📖 Kubernetes🥇
 
-> ✏️ 대규모 컨테이너 서비스의 표준 운영 플랫폼, Kubernetes의 파드 스케줄링, 인그레스 설정, 자원 관리 노하우 및 무중단 배포(ArgoCD) 파이프라인을 구축합니다.
-
 * [Kubernetes - Probe]
 * [Kubernetes - ConfigMap & Secret]
 * [Kubernetes - PV/PVC & Deployment & Service & HPA]
@@ -606,8 +552,6 @@
 
 ### 📖 CI/CD(Continuous Integration/Continuous Deploy)🥈
 
-> ✏️ 안정적이고 빠른 서비스 배포 파이프라인 자동화를 위한 Github Actions와 Jenkins 기반의 지속적 통합/지속적 배포 환경 구축 방법을 정리합니다.
-
 * [Github Actions - Github Actions](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Github-Actions-%E2%80%90-Github-Actions-%EA%B8%B0%EB%B3%B8-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC)
 * [Jenkins - Jenkins + IaC]
 * [Jenkins - Advanced Jenkins Pipeline]
@@ -615,8 +559,6 @@
 * [Jenkins - Jenkins Appendix]
 
 ### 📖 Nginx🥉
-
-> ✏️ 고성능 웹 서버이자 리버스 프록시, 로드 밸런서로 활약하는 Nginx의 최적화 설정, HTTPS 통신 관리 및 트래픽 분산 처리 기법을 다룹니다.
 
 * [Nginx ‐ Nginx Introduction](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Nginx-%E2%80%90-Nginx-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%8B%A4%ED%96%89-%EB%B0%A9%EB%B2%95-%EC%A0%95%EB%A6%AC)
 * [Nginx ‐ Nginx Supplementary Summary](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Nginx-%E2%80%90-Nginx-%EB%B3%B4%EC%B6%A9-%EC%A0%95%EB%A6%AC)
@@ -629,8 +571,6 @@
 
 ### 📖 Monitoring🥈
 
-> ✏️ 서비스의 안정성 확보와 장애 대응을 위해 로깅(ELK), 메트릭 수집 및 시각화(Prometheus & Grafana) 등 관측 가능성(Observability) 인프라 구축을 도모합니다.
-
 * [Monitoring - Log Concept]
 * [Monitoring - Log Level & Filter]
 * [Monitoring - Logback]
@@ -639,11 +579,9 @@
 * [Monitoring - Building a Monitoring System with Spring Boot Actuator]
 * [Monitoring - Server Monitoring with Prometheus and Grafana with Discord Alerts]
 
-## 7. Test & Projects (테스트 & 사이드 프로젝트)
+## 📚 Test & Projects (테스트 & 사이드 프로젝트)
 
 ### 📖 Test🥈
-
-> ✏️ 견고한 소프트웨어를 위한 단위/통합 테스트 기법(JUnit, Mockito, TestContainers)부터 시스템 병목을 찾는 부하 테스트(JMeter) 노하우까지 다룹니다.
 
 * [Test - Load Testing Fundamentals](https://github.com/Code-Laboratory/Backend-PlayGround/wiki/Test-%E2%80%90-Stress-Test(%EB%B6%80%ED%95%98-%ED%85%8C%EC%8A%A4%ED%8A%B8))
 * [Test - Diagnosing Bottlenecks via Load Testing]
@@ -661,5 +599,3 @@
 * [Test - Appendix: Tips for Better Testing](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Test-%E2%80%90-%EB%8D%94-%EB%82%98%EC%9D%80-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%9C%84%ED%95%9C-Appendix)
 
 ### 📖 Side Project🥉
-
-> ✏️ 학습한 깊이 있는 기술(동시성 제어, 분산 트랜잭션, 성능 튜닝 등)을 실제 비즈니스 로직에 적용해 보고 트러블슈팅하며 얻은 인사이트를 기록합니다.
